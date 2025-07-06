@@ -1,0 +1,999 @@
+index,book_name,author,author_rating,book_average_rating,book_ratings_count,genre,gross_sales,publisher_revenue,sale_price,sales_rank,publisher,units_sold
+0,Beowulf,"Unknown, Seamus Heaney",Novice,3.42,155903,fiction,34160.0,20496.0,4.88,1,HarperCollins Publishers,7000
+1,Batman: Year One,"Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",Intermediate,4.23,145267,fiction,12437.5,7462.5,1.99,2,HarperCollins Publishers,6250
+2,Go Set a Watchman,Harper Lee,Novice,3.31,138669,fiction,47795.0,28677.0,8.69,3,"Amazon Digital Services,  Inc.",5500
+3,When You Are Engulfed in Flames,David Sedaris,Intermediate,4.04,150898,fiction,41250.0,24750.0,7.5,3,Hachette Book Group,5500
+4,Daughter of Smoke & Bone,Laini Taylor,Intermediate,4.04,198283,fiction,37952.5,22771.5,7.99,4,Penguin Group (USA) LLC,4750
+5,Red Queen,Victoria Aveyard,Intermediate,4.08,83354,fiction,19960.0,0.0,4.99,5,"Amazon Digital Services,  Inc.",4000
+6,The Power of Habit,Charles Duhigg,Intermediate,4.03,155977,fiction,27491.67,16495.002,6.99,6,HarperCollins Publishers,3933
+7,Midnight in the Garden of Good and Evil,John Berendt,Intermediate,3.9,167997,nonfiction,26182.0,15709.2,6.89,8,Hachette Book Group,3800
+8,Hopeless,Colleen Hoover,Intermediate,4.34,189938,fiction,26093.67,15656.202,6.99,9,HarperCollins Publishers,3733
+9,A Little Princess,"Frances Hodgson Burnett, Nancy Bond",Intermediate,4.2,199872,fiction,23792.34,14275.404,6.49,10,Random House LLC,3666
+10,The Truth About Forever,Sarah Dessen,Intermediate,4.13,179415,fiction,17964.0,0.0,4.99,11,"Amazon Digital Services,  Inc.",3600
+11,The horse and his boy,C.S. Lewis,Intermediate,3.9,189671,fiction,21564.0,12938.4,5.99,11,Penguin Group (USA) LLC,3600
+12,Last Sacrifice ,Richelle Mead,Famous,4.42,206792,fiction,3431.34,0.0,0.99,13,"Amazon Digital Services,  Inc.",3466
+13,Little House on the Prairie,"Laura Ingalls Wilder, Garth Williams",Intermediate,4.18,195424,fiction,6897.34,4138.404,1.99,13,HarperCollins Publishers,3466
+14,The Velveteen Rabbit,"Margery Williams Bianco, William   Nicholson",Intermediate,4.29,173469,fiction,21797.82,13078.692,6.54,15,Random House LLC,3333
+15,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,Intermediate,3.76,139411,fiction,16297.34,0.0,4.99,16,"Amazon Digital Services,  Inc.",3266
+16,The War of the Worlds,"H.G. Wells, Arthur C. Clarke",Intermediate,3.8,159752,fiction,15968.0,0.0,4.99,17,"Amazon Digital Services,  Inc.",3200
+17,Pretty Little Liars,Sara Shepard,Intermediate,3.9,156328,fiction,15968.0,0.0,4.99,17,"Amazon Digital Services,  Inc.",3200
+18,Corduroy,Don Freeman,Intermediate,4.28,160860,fiction,6234.67,3740.802,1.99,18,Simon and Schuster Digital Sales Inc,3133
+19,The Omnivore's Dilemma,Michael Pollan,Intermediate,4.17,133271,fiction,3035.34,0.0,0.99,19,"Amazon Digital Services,  Inc.",3066
+20,Life After Life,Kate Atkinson,Intermediate,3.74,138454,fiction,11702.67,0.0,3.99,21,"Amazon Digital Services,  Inc.",2933
+21,The Rescue,Nicholas Sparks,Intermediate,4.1,142092,fiction,8569.34,0.0,2.99,22,"Amazon Digital Services,  Inc.",2866
+23,Voyager,Diana Gabaldon,Intermediate,4.38,157395,fiction,8171.67,0.0,2.99,24,"Amazon Digital Services,  Inc.",2733
+25,Cujo,Stephen King,Intermediate,3.65,158215,fiction,7774.0,0.0,2.99,26,"Amazon Digital Services,  Inc.",2600
+26,The Virgin Suicides,Jeffrey Eugenides,Intermediate,3.83,159249,fiction,26904.06,16142.436,10.91,28,Penguin Group (USA) LLC,2466
+27,Dead to the World,Charlaine Harris,Intermediate,4.13,199572,fiction,2376.0,0.0,0.99,29,"Amazon Digital Services,  Inc.",2400
+28,Tess of the d'Urbervilles: A Pure Woman Faithfully Presented,"Thomas Hardy, Tim Dolin, Margaret R. Higonnet",Intermediate,3.77,171599,nonfiction,9576.0,5745.6,3.99,29,Hachette Book Group,2400
+29,Madame Bovary,"Gustave Flaubert, Margaret Mauldon, Malcolm Bowie, Mark Overstall",Intermediate,3.64,158877,fiction,9308.67,0.0,3.99,30,"Amazon Digital Services,  Inc.",2333
+30,The Phantom Tollbooth,"Norton Juster, Jules Feiffer",Intermediate,4.22,178432,fiction,4509.34,0.0,1.99,31,"Amazon Digital Services,  Inc.",2266
+31,The Way of Kings,Brandon Sanderson,Famous,4.64,144822,fiction,2178.0,0.0,0.99,32,"Amazon Digital Services,  Inc.",2200
+32,Club Dead,Charlaine Harris,Intermediate,4.03,181323,fiction,13178.0,7906.8,5.99,32,HarperCollins Publishers,2200
+33,It's Kind of a Funny Story,Ned Vizzini,Intermediate,4.14,161001,nonfiction,2045.34,1227.204,0.99,34,HarperCollins Publishers,2066
+35,After You,Jojo Moyes,Intermediate,3.7,99342,fiction,1964.16,0.0,0.99,36,"Amazon Digital Services,  Inc.",1984
+36,The Language of Flowers,Vanessa Diffenbaugh,Intermediate,4.07,140076,fiction,1964.16,1178.496,0.99,36,"Amazon Digital Services,  Inc.",1984
+37,Batman: The Dark Knight Returns,"Frank Miller, Klaus Janson, Lynn Varley",Intermediate,4.25,135979,fiction,1949.31,0.0,0.99,37,"Amazon Digital Services,  Inc.",1969
+38,The Angel Experiment,James Patterson,Intermediate,4.08,172302,fiction,1949.31,0.0,0.99,37,"Amazon Digital Services,  Inc.",1969
+39,High Fidelity,Nick Hornby,Intermediate,3.94,134849,fiction,20309.55,12185.73,10.65,41,Random House LLC,1907
+40,The Guardian,Nicholas Sparks,Intermediate,4.14,136427,fiction,1873.08,0.0,0.99,42,"Amazon Digital Services,  Inc.",1892
+41,Oryx and Crake,Margaret Atwood,Intermediate,4.0,151500,fiction,7485.24,0.0,3.99,43,"Amazon Digital Services,  Inc.",1876
+42,"Men Are from Mars, Women Are from Venus Book of Days: 365 Inspirations to Enrich Your Relationships",John Gray,Intermediate,3.52,113915,fiction,3703.39,2222.034,1.99,44,"Amazon Digital Services,  Inc.",1861
+43,Kitchen Confidential: Adventures in the Culinary Underbelly,Anthony Bourdain,Intermediate,4.0,134177,fiction,11057.54,6634.524,5.99,45,HarperCollins Publishers,1846
+44,Timeline,Michael Crichton,Intermediate,3.83,148563,fiction,12791.7,7675.02,6.99,46,"Amazon Digital Services,  Inc.",1830
+45,Candide,Voltaire,Intermediate,3.76,151471,fiction,8982.0,0.0,4.99,48,"Amazon Digital Services,  Inc.",1800
+46,Tuck Everlasting,Natalie Babbitt,Intermediate,3.85,174280,nonfiction,3582.0,2149.2,1.99,48,"Amazon Digital Services,  Inc.",1800
+47,Christine,"Stephen King, Marie Milpois",Intermediate,3.72,151160,nonfiction,1766.16,1059.696,0.99,49,"Amazon Digital Services,  Inc.",1784
+48,Are You My Mother?,P.D. Eastman,Intermediate,4.16,174204,fiction,10596.31,6357.786,5.99,50,Penguin Group (USA) LLC,1769
+49,The Story of Art,E.H. Gombrich,Intermediate,3.83,164708,fiction,15058.27,9034.962,8.59,51,Hachette Book Group,1753
+50,Scarlet,Marissa Meyer,Intermediate,4.3,193766,fiction,1720.62,1032.372,0.99,52,"Amazon Digital Services,  Inc.",1738
+51,"Rich Dad , Poor Dad",Robert T. Kiyosaki,Intermediate,3.95,153764,fiction,1705.77,1023.462,0.99,53,Random House LLC,1723
+52,Silence ,Becca Fitzpatrick,Intermediate,4.16,190722,fiction,8517.93,0.0,4.99,54,"Amazon Digital Services,  Inc.",1707
+53,The Magicians,Lev Grossman,Novice,3.47,147908,fiction,1675.08,1005.048,0.99,55,Macmillan,1692
+54,ãƒ‡ã‚¹ãƒŽãƒ¼ãƒˆ #1 (Desu NÅto) Taikutsu (é€€å±ˆ),"Tsugumi Ohba, Takeshi Obata",Famous,4.42,139501,fiction,6687.24,0.0,3.99,56,"Amazon Digital Services,  Inc.",1676
+55,A Great and Terrible Beauty,Libba Bray,Intermediate,3.79,173613,fiction,4966.39,2979.834,2.99,57,Penguin Group (USA) LLC,1661
+56,Everything Is Illuminated,Jonathan Safran Foer,Intermediate,3.9,131492,fiction,1629.54,977.724,0.99,58,"Amazon Digital Services,  Inc.",1646
+57,The Bourne Supremacy,Robert Ludlum,Intermediate,4.09,142168,fiction,17783.3,10669.98,10.91,59,Penguin Group (USA) LLC,1630
+58,Easy,Tammara Webber,Intermediate,4.11,133937,fiction,1613.7,0.0,0.99,59,"Amazon Digital Services,  Inc.",1630
+59,David Copperfield,"Charles Dickens, Jeremy Tambling",Intermediate,3.96,150512,fiction,18394.85,11036.91,11.39,60,Hachette Book Group,1615
+60,The Absolutely True Diary of a Part-Time Indian,"Sherman Alexie, Ellen Forney",Intermediate,4.11,160607,fiction,10384.0,6230.4,6.49,61,Random House LLC,1600
+61,ÐœÐ°ÑÑ‚ÐµÑ€ Ð¸ ÐœÐ°Ñ€Ð³Ð°Ñ€Ð¸Ñ‚Ð°,"Mikhail Bulgakov, Katherine Tiernan O'Connor, Diana Burgin, Ellendea Proffer",Intermediate,4.32,131389,fiction,6320.16,0.0,3.99,62,"Amazon Digital Services,  Inc.",1584
+62,A Wizard of Earthsea,Ursula K. Le Guin,Intermediate,3.99,155042,fiction,4707.0,0.0,3.0,63,"Amazon Digital Services,  Inc.",1569
+63,Because of Winn-Dixie,"Kate DiCamillo, Chris Sheban",Intermediate,4.0,154476,fiction,1522.62,0.0,0.99,65,"Amazon Digital Services,  Inc.",1538
+64,A Separate Peace,John Knowles,Intermediate,3.56,155901,fiction,5924.47,0.0,3.89,66,"Amazon Digital Services,  Inc.",1523
+65,The Rainmaker,John Grisham,Intermediate,3.91,137412,fiction,12040.93,0.0,7.99,67,"Amazon Digital Services,  Inc.",1507
+66,Don Quijote de La Mancha,"Miguel de Cervantes Saavedra, Roberto GonzÃ¡lez EchevarrÃ­a, John Rutherford",Intermediate,3.85,134931,fiction,13413.08,8047.848,8.99,68,Hachette Book Group,1492
+67,Assassin's Apprentice,Robin Hobb,Intermediate,4.14,132777,fiction,2907.39,0.0,1.99,70,"Amazon Digital Services,  Inc.",1461
+68,The Restaurant at the End of the Universe,Douglas Adams,Intermediate,4.22,153838,fiction,11553.54,6932.124,7.99,71,Penguin Group (USA) LLC,1446
+69,Torment,Lauren Kate,Intermediate,3.89,174393,fiction,5705.7,0.0,3.99,72,"Amazon Digital Services,  Inc.",1430
+70,The Tale of Peter Rabbit,Beatrix Potter,Intermediate,4.17,162373,fiction,9890.85,5934.51,6.99,73,Penguin Group (USA) LLC,1415
+71,The Silver Chair,"C.S. Lewis, Pauline Baynes",Intermediate,3.95,170453,fiction,5245.36,3147.216,3.79,75,Hachette Book Group,1384
+72,The Hero of Ages,Brandon Sanderson,Famous,4.46,143622,nonfiction,5826.64,3495.984,4.21,75,"Amazon Digital Services,  Inc.",1384
+73,"Girl, Interrupted",Susanna Kaysen,Intermediate,3.9,145161,fiction,2724.31,1634.586,1.99,76,Hachette Book Group,1369
+75,Jonathan Livingston Seagull,"Richard Bach, Russell Munson",Intermediate,3.8,133728,fiction,6751.47,0.0,4.99,77,"Amazon Digital Services,  Inc.",1353
+76,City of Heavenly Fire,Cassandra Clare,Famous,4.48,177796,fiction,6676.62,0.0,4.99,78,"Amazon Digital Services,  Inc.",1338
+77,Love You Forever,"Robert Munsch, Sheila McGraw",Intermediate,4.34,159703,fiction,1309.77,785.862,0.99,79,"Amazon Digital Services,  Inc.",1323
+78,Cell,Stephen King,Intermediate,3.64,144591,fiction,5933.78,3560.268,4.54,80,HarperCollins Publishers,1307
+79,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,Intermediate,4.32,113565,fiction,8482.43,5089.458,6.49,80,Hachette Book Group,1307
+80,The Silmarillion,"J.R.R. Tolkien, Christopher Tolkien, Ted Nasmith",Intermediate,3.87,134106,fiction,6447.08,3868.248,4.99,81,Random House LLC,1292
+81,The Drawing of the Three,Stephen King,Intermediate,4.23,139052,nonfiction,2539.24,1523.544,1.99,82,HarperCollins Publishers,1276
+82,The Forgotten Garden,Kate Morton,Intermediate,4.12,138377,fiction,4907.7,0.0,3.99,85,"Amazon Digital Services,  Inc.",1230
+83,Der ProzeÃŸ,"Franz Kafka, Edwin Muir, Willa Muir, Max Brod",Intermediate,3.98,131856,fiction,1202.85,0.0,0.99,86,"Amazon Digital Services,  Inc.",1215
+84,This Lullaby,Sarah Dessen,Intermediate,4.03,151829,fiction,2417.85,1450.71,1.99,86,HarperCollins Publishers,1215
+85,Plain Truth,Jodi Picoult,Intermediate,3.97,128406,fiction,1188.0,0.0,0.99,87,"Amazon Digital Services,  Inc.",1200
+86,Orange Is the New Black: My Year in a Women's Prison,Piper Kerman,Intermediate,3.7,127186,fiction,2388.0,0.0,1.99,87,"Amazon Digital Services,  Inc.",1200
+87,The Hound of the Baskervilles,"Arthur Conan Doyle, Anne Perry",Intermediate,4.09,154517,fiction,2356.16,1413.696,1.99,88,Macmillan,1184
+88,"Thinking, Fast and Slow",Daniel Kahneman,Intermediate,4.08,136950,fiction,1157.31,694.386,0.99,89,"Amazon Digital Services,  Inc.",1169
+89,The Mists of Avalon,Marion Zimmer Bradley,Intermediate,4.12,157736,fiction,1157.31,694.386,0.99,89,"Amazon Digital Services,  Inc.",1169
+90,"Are You There God? It's Me, Margaret",Judy Blume,Intermediate,3.89,151789,fiction,1111.77,0.0,0.99,92,"Amazon Digital Services,  Inc.",1123
+91,Nights in Rodanthe,Nicholas Sparks,Intermediate,3.82,129807,fiction,5603.77,3362.262,4.99,92,"Amazon Digital Services,  Inc.",1123
+92,Mr. Mercedes,Stephen King,Intermediate,3.92,125847,fiction,2202.93,1321.758,1.99,93,Macmillan,1107
+93,All Together Dead,Charlaine Harris,Intermediate,4.05,162689,fiction,6983.24,4189.944,6.49,95,Random House LLC,1076
+94,Midwives,Chris Bohjalian,Intermediate,3.97,133155,fiction,6885.89,4131.534,6.49,96,Random House LLC,1061
+95,The Polar Express,Chris Van Allsburg,Intermediate,4.29,168001,nonfiction,1035.54,621.324,0.99,97,"Amazon Digital Services,  Inc.",1046
+96,The True Story of the Three Little Pigs,"Jon Scieszka, Lane Smith",Intermediate,4.29,141945,fiction,1019.7,0.0,0.99,98,"Amazon Digital Services,  Inc.",1030
+97,Patriot Games,Tom Clancy,Intermediate,4.11,141674,fiction,6079.85,0.0,5.99,99,"Amazon Digital Services,  Inc.",1015
+98,Veronika decide morrer,"Paulo Coelho, Margaret Jull Costa",Intermediate,3.69,111856,fiction,6932.45,4159.47,6.83,99,Penguin Group (USA) LLC,1015
+99,"Lean In: Women, Work, and the Will to Lead","Sheryl Sandberg, Nell Scovell",Intermediate,3.94,135635,fiction,985.05,0.0,0.99,101,"Amazon Digital Services,  Inc.",995
+100,Dead as a Doornail ,Charlaine Harris,Intermediate,4.01,169560,fiction,5068.8,3041.28,5.12,102,Penguin Group (USA) LLC,990
+101,"Shatter Me (Shatter Me, #1)",Tahereh Mafi,Intermediate,4.01,176433,fiction,2195.2,1317.12,2.24,104,"Amazon Digital Services,  Inc.",980
+102,Starship Troopers,Robert A. Heinlein,Intermediate,3.99,136886,fiction,7312.5,4387.5,7.5,105,Hachette Book Group,975
+103,I've Got Your Number,Sophie Kinsella,Intermediate,3.93,144533,fiction,960.3,0.0,0.99,106,"Amazon Digital Services,  Inc.",970
+104,Sofies Verden,"Jostein Gaarder, Paulette MÃ¸ller",Intermediate,3.88,109692,fiction,10224.0,6134.4,10.65,108,Penguin Group (USA) LLC,960
+106,The Martian Chronicles,Ray Bradbury,Intermediate,4.12,143236,fiction,1880.55,0.0,1.99,111,"Amazon Digital Services,  Inc.",945
+107,A Visit From the Goon Squad,Jennifer Egan,Intermediate,3.64,120126,fiction,4690.6,2814.36,4.99,112,Macmillan,940
+108,Heidi,"Johanna Spyri, Angelo  Rinaldi, Beverly Cleary",Intermediate,3.97,144497,fiction,3730.65,2238.39,3.99,113,Penguin Group (USA) LLC,935
+110,The Last Battle,C.S. Lewis,Intermediate,4.02,158701,fiction,5980.0,3588.0,6.5,116,"Amazon Digital Services,  Inc.",920
+111,World Without End,Ken Follett,Intermediate,4.23,128715,fiction,905.85,543.51,0.99,117,Random House LLC,915
+112,Chosen: A House of Night Novel,"P.C. Cast, Kristin Cast",Intermediate,3.9,180961,fiction,7759.2,4655.52,8.48,117,"Amazon Digital Services,  Inc.",915
+113,Slammed,Colleen Hoover,Intermediate,4.29,153882,fiction,900.9,0.0,0.99,118,"Amazon Digital Services,  Inc.",910
+114,"Beastly (Beastly, #1, Kendra Chronicles, #1)",Alex Flinn,Intermediate,3.84,150003,fiction,895.95,537.57,0.99,119,"Amazon Digital Services,  Inc.",905
+115,Tales of Caunterbury,"Geoffrey Chaucer, Nevill Coghill",Novice,3.48,148480,fiction,891.0,0.0,0.99,120,"Amazon Digital Services,  Inc.",900
+116,Baby Proof,Emily Giffin,Intermediate,3.71,124371,nonfiction,5841.0,3504.6,6.49,120,Macmillan,900
+117,Inheritance,Christopher Paolini,Intermediate,4.08,146905,nonfiction,10731.05,6438.63,11.99,121,Random House LLC,895
+118,ã„ã¡ãã‚…ã†ã¯ã¡ã‚ˆã‚“ [Ichi-KyÅ«-Hachi-Yon],"Haruki Murakami, Jay Rubin, Philip Gabriel",Intermediate,3.89,125195,fiction,2661.1,0.0,2.99,122,"Amazon Digital Services,  Inc.",890
+119,Uncle Tom's Cabin or Life Among the Lowly,Harriet Beecher Stowe,Intermediate,3.83,137858,fiction,1771.1,1062.66,1.99,122,HarperCollins Publishers,890
+120,Le FantÃ´me de l'OpÃ©ra,"Gaston Leroux, Alexander Teixeira de Mattos",Intermediate,3.97,141110,fiction,3531.15,0.0,3.99,123,"Amazon Digital Services,  Inc.",885
+121,"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris,Intermediate,4.02,163054,fiction,6525.0,3915.0,7.5,126,Simon and Schuster Digital Sales Inc,870
+122,Ensaio Sobre a Cegueira,"JosÃ© Saramago, Giovanni Pontiero",Intermediate,4.08,98738,fiction,3451.35,0.0,3.99,127,"Amazon Digital Services,  Inc.",865
+123,Freedom,Jonathan Franzen,Intermediate,3.73,119213,fiction,6871.4,4122.84,7.99,128,Random House LLC,860
+124,Crossed,Ally Condie,Intermediate,3.52,100886,fiction,841.5,504.9,0.99,130,"Amazon Digital Services,  Inc.",850
+125,"I'd Tell You I Love You, But Then I'd Have to Kill You",Ally Carter,Intermediate,3.82,150222,fiction,10131.55,6078.93,11.99,131,Hachette Book Group,845
+126,The White Tiger,Aravind Adiga,Intermediate,3.71,114531,fiction,6711.6,4026.96,7.99,132,Random House LLC,840
+127,The Corrections,Jonathan Franzen,Intermediate,3.78,117657,fiction,816.75,0.0,0.99,135,"Amazon Digital Services,  Inc.",825
+128,Dreams from My Father,Barack Obama,Intermediate,3.81,128961,nonfiction,1641.75,985.05,1.99,135,HarperCollins Publishers,825
+129,Congo,Michael Crichton,Intermediate,3.55,129811,nonfiction,5696.85,3418.11,6.99,137,Random House LLC,815
+130,"Alexander and the Terrible, Horrible, No Good, Very Bad Day","Judith Viorst, Ray Cruz",Intermediate,4.22,146073,fiction,2421.9,0.0,2.99,138,"Amazon Digital Services,  Inc.",810
+131,Interpreter of Maladies,Jhumpa Lahiri,Intermediate,4.12,110651,fiction,8573.25,5143.95,10.65,139,Penguin Group (USA) LLC,805
+132,A People's History of the United States: 1492 to Present ,Howard Zinn,Intermediate,4.07,137372,fiction,3192.0,0.0,3.99,140,"Amazon Digital Services,  Inc.",800
+133,Breakfast at Tiffany's,Truman Capote,Intermediate,3.89,129778,fiction,792.0,475.2,0.99,140,"Amazon Digital Services,  Inc.",800
+134,The Passage,Justin Cronin,Intermediate,4.04,126993,fiction,3172.05,0.0,3.99,141,"Amazon Digital Services,  Inc.",795
+135,Anansi Boys,Neil Gaiman,Intermediate,4.0,137639,nonfiction,1572.1,943.26,1.99,142,"Amazon Digital Services,  Inc.",790
+136,Along for the Ride,Sarah Dessen,Intermediate,4.08,151721,fiction,9412.15,5647.29,11.99,143,Penguin Group (USA) LLC,785
+137,Everything I Never Told You,Celeste Ng,Intermediate,3.78,108703,fiction,3112.2,0.0,3.99,144,"Amazon Digital Services,  Inc.",780
+138,La casa de los espÃ­ritus,"Isabel Allende, Magda Bogin",Intermediate,4.2,119930,fiction,8269.25,4961.55,10.67,145,Simon and Schuster Digital Sales Inc,775
+139,The Dead Zone,Stephen King,Intermediate,3.9,132723,fiction,1512.4,907.44,1.99,148,HarperCollins Publishers,760
+140,The Mysterious Affair at Styles,"Agatha Christie, Î¡Î¿Î¶Î¯Ï„Î± Î£ÏŽÎºÎ¿Ï…",Intermediate,3.98,135514,fiction,3012.45,0.0,3.99,149,"Amazon Digital Services,  Inc.",755
+141,Murder in the Calais Coach,Agatha Christie,Intermediate,4.16,138444,fiction,3742.5,0.0,4.99,150,"Amazon Digital Services,  Inc.",750
+142,Americanah,Chimamanda Ngozi Adichie,Intermediate,4.26,113252,fiction,2992.5,0.0,3.99,150,"Amazon Digital Services,  Inc.",750
+143,Suzanne's Diary for Nicholas,James Patterson,Intermediate,4.16,121398,fiction,3717.55,2230.53,4.99,151,Random House LLC,745
+144,Firestarter,Stephen King,Intermediate,3.85,142213,fiction,2952.6,1771.56,3.99,152,Macmillan,740
+145,Entwined with You,Sylvia Day,Intermediate,4.19,141641,fiction,727.65,0.0,0.99,153,"Amazon Digital Services,  Inc.",735
+146,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",Christopher McDougall,Intermediate,4.27,109642,fiction,3642.7,0.0,4.99,154,"Amazon Digital Services,  Inc.",730
+147,The Storied Life of A.J. Fikry,Gabrielle Zevin,Intermediate,3.98,115393,fiction,5444.75,3266.85,7.51,155,Random House LLC,725
+148,Mad About Madeline,Ludwig Bemelmans,Intermediate,4.22,156726,fiction,712.8,0.0,0.99,156,"Amazon Digital Services,  Inc.",720
+149,Think and Grow Rich,Napoleon Hill,Intermediate,4.17,87445,fiction,702.9,0.0,0.99,158,"Amazon Digital Services,  Inc.",710
+150,Little House In The Big Woods,"Laura Ingalls Wilder, Garth Williams",Intermediate,4.16,165127,fiction,697.95,418.77,0.99,159,"Amazon Digital Services,  Inc.",705
+151,Jonathan Strange & Mr Norrell,Susanna Clarke,Intermediate,3.8,133683,fiction,5593.0,3355.8,7.99,160,Hachette Book Group,700
+152,A Bend in the Road,Nicholas Sparks,Intermediate,4.02,116800,fiction,1353.2,811.92,1.99,164,HarperCollins Publishers,680
+153,The House of Hades,Rick Riordan,Famous,4.54,159774,nonfiction,668.25,400.95,0.99,165,"Amazon Digital Services,  Inc.",675
+154,Gone,Michael  Grant,Intermediate,3.85,144606,fiction,3678.3,2206.98,5.49,166,"Amazon Digital Services,  Inc.",670
+155,The Wedding,Nicholas Sparks,Intermediate,3.98,118045,fiction,658.35,395.01,0.99,167,"Amazon Digital Services,  Inc.",665
+156,1776,David McCullough,Intermediate,4.06,130293,fiction,7814.4,4688.64,11.84,168,Random House LLC,660
+157,Under the Banner of Heaven: A Story of Violent Faith,Jon Krakauer,Intermediate,3.98,112167,fiction,648.45,0.0,0.99,169,"Amazon Digital Services,  Inc.",655
+158,Beautiful Ruins,Jess Walter,Intermediate,3.67,116053,fiction,9818.45,5891.07,14.99,169,Random House LLC,655
+159,The Audacity of Hope: Thoughts on Reclaiming the American Dream,Barack Obama,Intermediate,3.69,110873,fiction,3243.5,0.0,4.99,170,"Amazon Digital Services,  Inc.",650
+160,On Writing: A Memoir of the Craft,Stephen King,Intermediate,4.31,131481,fiction,1943.5,0.0,2.99,170,"Amazon Digital Services,  Inc.",650
+161,Firefly Lane,Kristin Hannah,Intermediate,4.04,121966,fiction,3218.55,0.0,4.99,171,"Amazon Digital Services,  Inc.",645
+162,Sphere,Michael Crichton,Intermediate,3.77,128244,fiction,4473.6,2684.16,6.99,172,Random House LLC,640
+163,Love the One You're With,Emily Giffin,Intermediate,3.7,124812,fiction,5663.7,3398.22,8.99,174,Simon and Schuster Digital Sales Inc,630
+164,The Silkworm,"Robert Galbraith, J.K. Rowling",Intermediate,4.03,120008,fiction,608.85,0.0,0.99,177,"Amazon Digital Services,  Inc.",615
+165,The Vampire Lestat,Anne Rice,Intermediate,4.05,141299,fiction,603.9,362.34,0.99,178,"Amazon Digital Services,  Inc.",610
+166,State of Wonder,Ann Patchett,Intermediate,3.85,124837,fiction,1210.0,0.0,2.0,179,"Amazon Digital Services,  Inc.",605
+167,The Silver Linings Playbook,Matthew Quick,Intermediate,4.0,110939,fiction,594.0,0.0,0.99,180,"Amazon Digital Services,  Inc.",600
+168,Vingt Mille Lieues Sous les Mers,"Jules Verne, Anthony Bonner",Intermediate,3.86,121112,fiction,3540.25,0.0,5.95,181,"Amazon Digital Services,  Inc.",595
+169,The Constant Princess,Philippa Gregory,Intermediate,3.88,124786,fiction,3564.05,2138.43,5.99,181,Penguin Group (USA) LLC,595
+170,Mrs Dalloway,"Virginia Woolf, Maureen Howard",Intermediate,3.78,136327,fiction,1174.1,704.46,1.99,182,"Amazon Digital Services,  Inc.",590
+171,HundraÃ¥ringen som klev ut genom fÃ¶nstret och fÃ¶rsvann,"Jonas Jonasson, Rod Bradbury",Intermediate,3.81,92275,fiction,5200.65,3120.39,8.89,183,Macmillan,585
+172,Bag of Bones,Stephen King,Intermediate,3.87,131004,fiction,569.25,0.0,0.99,185,"Amazon Digital Services,  Inc.",575
+173,The Cider House Rules,John Irving,Intermediate,4.1,124876,fiction,1134.3,0.0,1.99,186,"Amazon Digital Services,  Inc.",570
+174,Thinner,"Richard Bachman, Stephen King",Intermediate,3.66,130219,fiction,1659.45,0.0,2.99,189,"Amazon Digital Services,  Inc.",555
+175,Le tour du monde en quatre-vingts jours,"Jules Verne, Michael Glencross, Brian W. Aldiss",Intermediate,3.9,117108,fiction,4434.45,2660.67,7.99,189,Penguin Group (USA) LLC,555
+176,Walk Two Moons,Sharon Creech,Intermediate,3.95,129350,nonfiction,544.5,326.7,0.99,190,"Amazon Digital Services,  Inc.",550
+177,Onze minutos,"Paulo Coelho, Margaret Jull Costa",Intermediate,3.69,102206,fiction,534.6,0.0,0.99,192,"Amazon Digital Services,  Inc.",540
+178,Nine Stories,J.D. Salinger,Intermediate,4.19,105138,fiction,2154.6,0.0,3.99,192,"Amazon Digital Services,  Inc.",540
+179,"Julie & Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen",Julie Powell,Intermediate,3.67,121373,nonfiction,1599.65,959.79,2.99,193,Random House LLC,535
+180,Unwind,Neal Shusterman,Intermediate,4.18,143892,fiction,524.7,314.82,0.99,194,Macmillan,530
+181,"Drums of Autumn (Outlander, #4)",Diana Gabaldon,Intermediate,4.34,123736,nonfiction,1024.85,614.91,1.99,197,"Amazon Digital Services,  Inc.",515
+182,Prodigy,Marie Lu,Intermediate,4.29,149702,fiction,1524.9,0.0,2.99,198,"Amazon Digital Services,  Inc.",510
+183,The Tragedie of King Lear,William Shakespeare,Intermediate,3.89,135448,fiction,2014.95,1208.97,3.99,199,"Amazon Digital Services,  Inc.",505
+184,Death of a Salesman,Arthur Miller,Novice,3.49,132061,fiction,5433.18,3259.908,10.91,201,Penguin Group (USA) LLC,498
+185,The Choice,Nicholas Sparks,Intermediate,3.99,93479,fiction,1483.04,0.0,2.99,202,"Amazon Digital Services,  Inc.",496
+187,The Sound and the Fury,William Faulkner,Intermediate,3.86,124665,fiction,2445.1,1467.06,4.99,206,Hachette Book Group,490
+188,A New Earth: Awakening to Your Life's Purpose,Eckhart Tolle,Intermediate,4.02,106211,fiction,483.12,289.872,0.99,207,"Amazon Digital Services,  Inc.",488
+189,BLEACHâ€•ãƒ–ãƒªãƒ¼ãƒâ€•ã€€1,Tite Kubo,Intermediate,4.21,120004,fiction,2605.92,1563.552,5.34,207,Penguin Group (USA) LLC,488
+191,The Shadow Rising ,Robert Jordan,Intermediate,4.21,122524,nonfiction,2057.58,1234.548,4.26,210,HarperCollins Publishing,483
+192,Shantaram,Gregory David Roberts,Intermediate,4.26,95213,fiction,476.19,0.0,0.99,211,"Amazon Digital Services,  Inc.",481
+193,From Dead to Worse,Charlaine Harris,Intermediate,4.01,151095,fiction,475.2,285.12,0.99,212,"Amazon Digital Services,  Inc.",480
+194,The Waste Lands,"Stephen King, Ned Dameron",Intermediate,4.24,117483,fiction,1429.22,0.0,2.99,213,"Amazon Digital Services,  Inc.",478
+195,The Bone Collector,Jeffery Deaver,Intermediate,4.18,120541,fiction,5253.22,3151.932,10.99,213,Random House LLC,478
+196,Der Vorleser,"Bernhard Schlink, Carol Brown Janeway",Intermediate,3.73,119911,fiction,1423.24,0.0,2.99,214,"Amazon Digital Services,  Inc.",476
+197,"Brown Bear, Brown Bear, What Do You See?","Bill Martin Jr., Eric Carle",Intermediate,4.19,125668,fiction,2375.24,1425.144,4.99,214,Hachette Book Group,476
+198,Hyperion,Dan Simmons,Intermediate,4.21,122225,fiction,470.25,0.0,0.99,215,"Amazon Digital Services,  Inc.",475
+199,The Pearl of the World,John Steinbeck,Novice,3.41,133264,fiction,470.25,282.15,0.99,215,"Amazon Digital Services,  Inc.",475
+200,The Exorcist,William Peter Blatty,Intermediate,4.14,124467,fiction,1399.32,0.0,2.99,219,"Amazon Digital Services,  Inc.",468
+201,The Short Second Life of Bree Tanner,Stephenie Meyer,Intermediate,3.51,145874,fiction,461.34,0.0,0.99,220,"Amazon Digital Services,  Inc.",466
+202,Snow Falling on Cedars,David Guterson,Intermediate,3.8,131945,fiction,1393.34,0.0,2.99,220,"Amazon Digital Services,  Inc.",466
+203,Roots,Alex Haley,Famous,4.42,118951,fiction,460.35,276.21,0.99,221,Macmillan,465
+204,Batman: The Killing Joke ,"Alan Moore, Brian Bolland, Tim Sale",Intermediate,4.36,113855,fiction,455.4,273.24,0.99,224,Random House LLC,460
+205,Invisible Man,Ralph Ellison,Intermediate,3.84,123073,fiction,455.4,0.0,0.99,224,"Amazon Digital Services,  Inc.",460
+206,A Long Way Gone. Memoirs of a Boy Soldier,Ishmael Beah,Intermediate,4.14,116260,fiction,3643.44,0.0,7.99,226,"Amazon Digital Services,  Inc.",456
+208,Different Seasons,Stephen King,Intermediate,4.34,105961,fiction,5000.45,3000.27,10.99,227,Simon and Schuster Digital Sales Inc,455
+211,Wool Omnibus,Hugh Howey,Intermediate,4.24,81982,fiction,2250.49,1350.294,4.99,229,Penguin Group (USA) LLC,451
+212,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore,Intermediate,4.26,118576,fiction,4792.5,2875.5,10.65,230,Random House LLC,450
+213,The Power of Now,Eckhart Tolle,Intermediate,4.1,104549,fiction,4771.2,2862.72,10.65,231,Penguin Group (USA) LLC,448
+214,Let's Pretend This Never Happened (A Mostly True Memoir),Jenny  Lawson,Intermediate,3.9,118475,fiction,443.52,266.112,0.99,231,"Amazon Digital Services,  Inc.",448
+215,The Lies of Locke Lamora,Scott Lynch,Intermediate,4.3,118751,fiction,1324.57,794.742,2.99,234,Simon and Schuster Digital Sales Inc,443
+216,Sabriel,Garth Nix,Intermediate,4.17,137047,fiction,8811.18,5286.708,19.98,235,Random House LLC,441
+217,Dead and Gone,Charlaine Harris,Intermediate,4.01,145157,fiction,2175.64,1305.384,4.99,238,Random House LLC,436
+218,The Storyteller,Jodi Picoult,Intermediate,4.26,109313,fiction,430.65,0.0,0.99,239,"Amazon Digital Services,  Inc.",435
+219,Obsidian,Jennifer L. Armentrout,Intermediate,4.23,164832,fiction,5191.67,3115.002,11.99,240,Penguin Group (USA) LLC,433
+220,"Life, the Universe and Everything",Douglas Adams,Intermediate,4.19,131562,fiction,2593.67,1556.202,5.99,240,Hachette Book Group,433
+221,Crown of Midnight,Sarah J. Maas,Famous,4.49,160485,fiction,426.69,256.014,0.99,241,"Amazon Digital Services,  Inc.",431
+222,"Scott Pilgrim, Volume 1: Scott Pilgrim's Precious Little Life",Bryan Lee O'Malley,Intermediate,4.18,126864,fiction,425.7,255.42,0.99,242,Random House LLC,430
+223,Half Broke Horses: A True Life Novel,Jeannette Walls,Intermediate,4.05,110597,fiction,5107.74,3064.644,11.99,244,Penguin Group (USA) LLC,426
+224,Mort,Terry Pratchett,Intermediate,4.22,128450,fiction,3821.22,2292.732,8.97,244,"Amazon Digital Services,  Inc.",426
+225,"The Iron King (The Iron Fey, #1) ",Julie Kagawa,Intermediate,3.92,158063,fiction,420.75,252.45,0.99,245,Macmillan,425
+226,Lonesome Dove,Larry McMurtry,Famous,4.47,111498,fiction,1687.77,0.0,3.99,246,"Amazon Digital Services,  Inc.",423
+227,Stiff: The Curious Lives of Human Cadavers,Mary Roach,Intermediate,4.05,122502,nonfiction,4473.0,2683.8,10.65,248,Random House LLC,420
+228,Bloodlines,Richelle Mead,Intermediate,4.22,140599,fiction,413.82,248.292,0.99,249,Macmillan,418
+229,Ender's Shadow,Orson Scott Card,Intermediate,4.3,115521,nonfiction,411.84,0.0,0.99,250,"Amazon Digital Services,  Inc.",416
+230,Twenties Girl,Sophie Kinsella,Intermediate,3.82,119105,fiction,2070.85,1242.51,4.99,251,Random House LLC,415
+231,Schindler's Ark,Thomas Keneally,Intermediate,4.34,108338,fiction,2537.9,1522.74,6.19,254,"Amazon Digital Services,  Inc.",410
+232,The Bluest Eye,Toni Morrison,Intermediate,3.99,109944,fiction,1219.92,0.0,2.99,255,"Amazon Digital Services,  Inc.",408
+233,The White Queen,Philippa Gregory,Intermediate,3.9,119739,fiction,1685.04,1011.024,4.13,255,"Amazon Digital Services,  Inc.",408
+234,The Autobiography of Malcolm X,"Malcolm X, Alex Haley",Intermediate,4.29,124805,nonfiction,2025.94,1215.564,4.99,256,Random House LLC,406
+235,Preludes & Nocturnes,"Neil Gaiman, Sam Kieth, Mike Dringenberg, Malcolm Jones III, Todd Klein, Karen  Berger",Intermediate,4.3,122540,nonfiction,2251.8,1351.08,5.56,257,"Amazon Digital Services,  Inc.",405
+236,Seabiscuit,Laura Hillenbrand,Intermediate,4.2,111497,fiction,1007.5,604.5,2.5,258,HarperCollins Publishers,403
+237,Shutter Island,Dennis Lehane,Intermediate,4.07,113718,fiction,4270.65,2562.39,10.65,259,Penguin Group (USA) LLC,401
+238,The Complete Sherlock Holmes,Arthur Conan Doyle,Famous,4.5,109754,fiction,3180.02,1908.012,7.99,261,Penguin Group (USA) LLC,398
+239,The Tragedy of Julius Caesar,"William Shakespeare, Roma Gill",Intermediate,3.65,119933,fiction,392.04,235.224,0.99,262,"Amazon Digital Services,  Inc.",396
+240,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",Erik Larson,Intermediate,3.81,110481,fiction,392.04,235.224,0.99,262,"Amazon Digital Services,  Inc.",396
+241,Î Î¿Î»Î¹Ï„ÎµÎ¯Î±,"Plato, Desmond Lee",Intermediate,3.9,110274,fiction,387.09,232.254,0.99,265,"Amazon Digital Services,  Inc.",391
+242,The Taming of the Shrew,William Shakespeare,Intermediate,3.81,126318,nonfiction,2726.1,1635.66,6.99,266,Hachette Book Group,390
+243,Cress,Marissa Meyer,Famous,4.46,162069,nonfiction,1154.14,692.484,2.99,268,Macmillan,386
+244,Just Kids,Patti Smith,Intermediate,4.14,106542,fiction,766.15,459.69,1.99,269,Random House LLC,385
+246,Jemima J,Jane Green,Intermediate,3.62,101436,fiction,758.19,0.0,1.99,271,"Amazon Digital Services,  Inc.",381
+247,Notre-Dame de Paris,"Victor Hugo, Walter J. Cobb",Intermediate,3.97,119851,nonfiction,3013.71,1808.226,7.91,271,"Amazon Digital Services,  Inc.",381
+248,A Fine Balance,Rohinton Mistry,Intermediate,4.34,99252,fiction,1136.2,681.72,2.99,272,Simon and Schuster Digital Sales Inc,380
+249,Calvin and Hobbes,"Bill Watterson, G.B. Trudeau",Famous,4.61,117788,nonfiction,1886.22,1131.732,4.99,273,Penguin Group (USA) LLC,378
+250,Specials,Scott Westerfeld,Intermediate,3.77,139168,fiction,1124.24,674.544,2.99,274,"Amazon Digital Services,  Inc.",376
+251,The Awakening,Kate Chopin,Intermediate,3.63,125474,fiction,371.25,0.0,0.99,275,"Amazon Digital Services,  Inc.",375
+252,Hunted,"P.C. Cast, Kristin Cast",Intermediate,3.93,138103,fiction,1871.25,1122.75,4.99,275,Random House LLC,375
+253,For One More Day,Mitch Albom,Intermediate,4.09,102193,fiction,1488.27,0.0,3.99,276,"Amazon Digital Services,  Inc.",373
+254,Clear and Present Danger,Tom Clancy,Intermediate,4.08,105317,fiction,1115.27,669.162,2.99,276,Hachette Book Group,373
+255,Falling Up,Shel Silverstein,Intermediate,4.33,111779,fiction,366.3,0.0,0.99,278,"Amazon Digital Services,  Inc.",370
+257,Trainspotting,"Irvine Welsh, Eric Lindor Fall",Intermediate,4.07,59453,fiction,1100.32,660.192,2.99,279,Random House LLC,368
+258,Foundation and Empire,Isaac Asimov,Intermediate,4.2,105595,fiction,1094.34,0.0,2.99,280,"Amazon Digital Services,  Inc.",366
+260,House Rules,Jodi Picoult,Intermediate,4.01,111239,nonfiction,4084.35,2450.61,11.19,281,HarperCollins Publishers,365
+261,BrÃ¼der Grimm: Kinder- und HausmÃ¤rchen,"Jacob Grimm, Wilhelm Grimm, Josef Scharl, Padraic Colum, Joseph Campbell, Margaret Raine Hunt, James Stern",Intermediate,4.31,116324,fiction,1811.37,0.0,4.99,282,"Amazon Digital Services,  Inc.",363
+262,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,Intermediate,4.15,134537,fiction,1085.37,651.222,2.99,282,"Amazon Digital Services,  Inc.",363
+263,Doctor Sleep,Stephen King,Intermediate,4.1,95276,fiction,357.39,214.434,0.99,283,"Amazon Digital Services,  Inc.",361
+264,About a Boy,Nick Hornby,Intermediate,3.79,101999,fiction,1079.39,647.634,2.99,283,Penguin Group (USA) LLC,361
+265,On Dublin Street,Samantha Young,Intermediate,4.24,136761,nonfiction,3905.78,2343.468,10.91,285,Random House LLC,358
+266,Crazy Love: Overwhelmed by a Relentless God,"Francis Chan, Danae Yankoski, Chris Tomlin",Intermediate,4.15,106351,fiction,1064.44,638.664,2.99,286,Macmillan,356
+269,The Story of My Life,Helen Keller,Intermediate,4.07,107313,nonfiction,347.49,208.494,0.99,289,"Amazon Digital Services,  Inc.",351
+270,This Is Where I Leave You,Jonathan Tropper,Intermediate,3.88,98645,fiction,346.5,0.0,0.99,290,"Amazon Digital Services,  Inc.",350
+271,Abraham Lincoln: Vampire Hunter,Seth Grahame-Smith,Intermediate,3.7,106336,fiction,344.52,0.0,0.99,291,"Amazon Digital Services,  Inc.",348
+272,ãƒ•ãƒ«ãƒ¼ãƒ„ãƒã‚¹ã‚±ãƒƒãƒˆ 1,"Natsuki Takaya, Alethea Nibley, Athena Nibley",Intermediate,4.23,118467,nonfiction,1031.55,618.93,2.99,293,Simon and Schuster Digital Sales Inc,345
+273,The Tempest,William Shakespeare,Intermediate,3.8,125178,fiction,1025.57,0.0,2.99,294,"Amazon Digital Services,  Inc.",343
+274,Burned: A House of Night Novel,"P.C. Cast, Kristin Cast",Intermediate,3.98,120763,fiction,1019.59,0.0,2.99,295,"Amazon Digital Services,  Inc.",341
+275,Wizard and Glass,"Stephen King, Dave McKean",Intermediate,4.24,105026,fiction,1019.59,611.754,2.99,295,Simon and Schuster Digital Sales Inc,341
+276,The Circle,Dave Eggers,Novice,3.46,109412,fiction,3872.6,2323.56,11.39,296,Penguin Group (USA) LLC,340
+277,The Invention of Hugo Cabret,Brian Selznick,Intermediate,4.23,132159,fiction,1686.62,0.0,4.99,297,"Amazon Digital Services,  Inc.",338
+278,Brave New World/Brave New World Revisited,"Aldous Huxley, Christopher Hitchens",Intermediate,4.16,108124,fiction,1676.64,0.0,4.99,298,"Amazon Digital Services,  Inc.",336
+279,æ¡œè˜­é«˜æ ¡ãƒ›ã‚¹ãƒˆéƒ¨ 1,Bisco Hatori,Excellent,4.36,113881,fiction,666.65,399.99,1.99,299,HarperCollins Publishers,335
+280,The Good Girl,Mary Kubica,Intermediate,3.81,100936,fiction,2620.72,1572.432,7.99,303,Random House LLC,328
+281,"Fallen Too Far (Too Far, #1)",Abbi Glines,Excellent,4.21,138871,fiction,2875.32,1725.192,8.82,304,Penguin Group (USA) LLC,326
+282,Landline,Rainbow Rowell,Intermediate,3.55,113805,fiction,1300.74,0.0,3.99,304,"Amazon Digital Services,  Inc.",326
+283,Tempted,"P.C. Cast, Kristin Cast",Intermediate,3.96,127387,fiction,2759.25,1655.55,8.49,305,HarperCollins Publishers,325
+284,No Country for Old Men,Cormac McCarthy,Excellent,4.12,100513,fiction,1611.77,967.062,4.99,306,Simon and Schuster Digital Sales Inc,323
+285,Wolf Hall,Hilary Mantel,Intermediate,3.85,102936,fiction,2468.49,1481.094,7.69,307,Penguin Group (USA) LLC,321
+286,Howl's Moving Castle,Diana Wynne Jones,Excellent,4.3,123945,fiction,950.82,0.0,2.99,309,"Amazon Digital Services,  Inc.",318
+287,Dreamcatcher,"Stephen King, William Olivier Desmond",Intermediate,3.59,115855,fiction,1576.84,0.0,4.99,310,"Amazon Digital Services,  Inc.",316
+288,Walden; or Life in the Woods,Henry David Thoreau,Intermediate,3.79,108062,nonfiction,2044.35,1226.61,6.49,311,Random House LLC,315
+289,The Remains of the Day,Kazuo Ishiguro,Excellent,4.1,105892,nonfiction,1874.87,1124.922,5.99,312,Random House LLC,313
+290,The Best of Me,Nicholas Sparks,Intermediate,3.91,103915,fiction,307.89,184.734,0.99,313,"Amazon Digital Services,  Inc.",311
+291,The Sense of an Ending,Julian Barnes,Intermediate,3.7,94968,fiction,306.9,0.0,0.99,314,"Amazon Digital Services,  Inc.",310
+292,A is for Alibi,Sue Grafton,Intermediate,3.82,116026,fiction,616.9,370.14,1.99,314,"Amazon Digital Services,  Inc.",310
+293,ÎŸá¼°Î´Î¯Ï€Î¿Ï…Ï‚ Î¤ÏÏÎ±Î½Î½Î¿Ï‚,"Sophocles, J.E. Thomas",Intermediate,3.67,119496,fiction,2460.92,1476.552,7.99,315,Hachette Book Group,308
+294,Shanghai Girls,Lisa See,Intermediate,3.87,106729,nonfiction,2152.92,1291.752,6.99,315,Penguin Group (USA) LLC,308
+295,The Wind in the Willows,"Kenneth Grahame, Gillian Avery",Intermediate,3.98,124612,fiction,10327.3,6196.38,33.86,317,Penguin Group (USA) LLC,305
+296,To All the Boys I've Loved Before,Jenny Han,Excellent,4.11,136938,nonfiction,598.99,0.0,1.99,319,"Amazon Digital Services,  Inc.",301
+297,Persepolis,"Marjane Satrapi, Mattias Ripa",Excellent,4.23,117103,fiction,1487.02,892.212,4.99,321,Random House LLC,298
+298,A Room with a View,E.M. Forster,Intermediate,3.91,109994,fiction,891.02,0.0,2.99,321,"Amazon Digital Services,  Inc.",298
+299,The DUFF: Designated Ugly Fat Friend,Kody Keplinger,Intermediate,3.86,136736,fiction,1181.04,0.0,3.99,322,"Amazon Digital Services,  Inc.",296
+300,Lock and Key,Sarah Dessen,Excellent,4.01,120475,nonfiction,885.04,531.024,2.99,322,"Amazon Digital Services,  Inc.",296
+301,Naked in Death,J.D. Robb,Excellent,4.13,78028,fiction,1772.95,1063.77,6.01,323,HarperCollins Publishers,295
+302,The Chamber,John Grisham,Intermediate,3.76,102715,fiction,292.05,0.0,0.99,323,"Amazon Digital Services,  Inc.",295
+303,Midnight Sun (Partial Draft),Stephenie Meyer,Excellent,4.03,138118,fiction,290.07,0.0,0.99,324,"Amazon Digital Services,  Inc.",293
+304,NARUTO -ãƒŠãƒ«ãƒˆ- å·»ãƒŽä¸€ ,"Masashi Kishimoto, Katy Bridges",Excellent,4.35,104633,nonfiction,288.09,172.854,0.99,325,HarperCollins Christian Publishing,291
+305,The Unlikely Pilgrimage of Harold Fry,Rachel Joyce,Intermediate,3.89,94012,fiction,3694.6,2216.76,12.74,326,Hachette Book Group,290
+306,Every Day,David Levithan,Intermediate,3.99,121863,fiction,1149.12,689.472,3.99,327,"Amazon Digital Services,  Inc.",288
+307,Xenocide,Orson Scott Card,Intermediate,3.77,104467,fiction,1707.15,1024.29,5.99,329,Simon and Schuster Digital Sales Inc,285
+308,The Merchant of Venice,"William Shakespeare, Robert          Jackson, Barbara A. Mowat, Paul Werstine",Intermediate,3.78,115621,fiction,427.5,0.0,1.5,329,"Amazon Digital Services,  Inc.",285
+309,ShÅgun,James Clavell,Excellent,4.37,104339,fiction,2071.56,1242.936,7.32,330,Hachette Book Group,283
+310,"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,Famous,4.45,134249,fiction,1412.17,847.302,4.99,330,Simon and Schuster Digital Sales Inc,283
+311,A Court of Thorns and Roses,Sarah J. Maas,Excellent,4.29,167848,nonfiction,3650.19,2190.114,12.99,331,"Amazon Digital Services,  Inc.",281
+313,Chicka Chicka Boom Boom,"Bill Martin Jr., John Archambault, Lois Ehlert",Excellent,4.21,105192,fiction,1097.25,658.35,3.99,335,Simon and Schuster Digital Sales Inc,275
+314,Smile,Raina Telgemeier,Excellent,4.19,98628,fiction,2618.07,1570.842,9.59,336,HarperCollins Publishers,273
+315, Animal Farm & 1984,"George Orwell, Christopher Hitchens",Excellent,4.26,116197,fiction,267.3,0.0,0.99,338,"Amazon Digital Services,  Inc.",270
+316,The Deep End of the Ocean,Jacquelyn Mitchard,Intermediate,3.84,102733,fiction,267.3,0.0,0.99,338,"Amazon Digital Services,  Inc.",270
+317,The Bonesetter's Daughter,Amy Tan,Intermediate,3.98,99926,nonfiction,263.34,0.0,0.99,340,"Amazon Digital Services,  Inc.",266
+318,"Angus, Thongs and Full-Frontal Snogging",Louise Rennison,Intermediate,3.74,112733,fiction,997.5,0.0,3.75,340,"Amazon Digital Services,  Inc.",266
+319,Mr. Penumbra's 24-Hour Bookstore,Robin Sloan,Intermediate,3.75,110552,fiction,1719.85,1031.91,6.49,341,Hachette Book Group,265
+320,Flowers in the Attic,V.C. Andrews,Intermediate,3.79,109063,children,1877.82,1126.692,7.14,342,"Amazon Digital Services,  Inc.",263
+321,When Breath Becomes Air,"Paul Kalanithi, Abraham Verghese",Excellent,4.32,116771,fiction,1041.39,0.0,3.99,343,"Amazon Digital Services,  Inc.",261
+322,Maniac Magee,Jerry Spinelli,Intermediate,3.86,99831,fiction,777.4,0.0,2.99,344,"Amazon Digital Services,  Inc.",260
+323,Invisible Monsters,Chuck Palahniuk,Intermediate,4.0,54937,fiction,771.42,462.852,2.99,345,Simon and Schuster Digital Sales Inc,258
+324,"Twelfth Night; or, What You Will",William Shakespeare,Intermediate,3.97,119607,fiction,1527.45,916.47,5.99,347,Penguin Group (USA) LLC,255
+325,Gathering Blue,Lois Lowry,Intermediate,3.8,114917,fiction,997.5,0.0,3.99,350,"Amazon Digital Services,  Inc.",250
+326,The Westing Game,Ellen Raskin,Excellent,4.03,117108,fiction,997.5,598.5,3.99,350,"Amazon Digital Services,  Inc.",250
+327,Red Rising,Pierce Brown,Excellent,4.26,104939,fiction,246.51,147.906,0.99,351,"Amazon Digital Services,  Inc.",249
+328,The Way of Shadows,Brent Weeks,Excellent,4.15,109236,fiction,744.51,446.706,2.99,351,Random House LLC,249
+329,The Bean Trees,Barbara Kingsolver,Intermediate,3.94,105032,children,1635.93,981.558,6.57,352,"Amazon Digital Services,  Inc.",249
+330,Walking Disaster,Jamie McGuire,Excellent,4.23,134022,fiction,3221.52,0.0,12.99,353,"Amazon Digital Services,  Inc.",248
+331,Words of Radiance,Brandon Sanderson,Famous,4.77,73572,fiction,741.52,444.912,2.99,354,HarperCollins Publishers,248
+332,Guess How Much I Love You,"Sam McBratney, Anita Jeram",Excellent,4.36,104690,fiction,738.53,0.0,2.99,355,"Amazon Digital Services,  Inc.",247
+333,The Fiery Cross,Diana Gabaldon,Excellent,4.26,103552,fiction,1141.14,684.684,4.62,356,Penguin Group (USA) LLC,247
+334,Night Shift,"Stephen King, John D. MacDonald",Intermediate,3.96,104248,fiction,244.53,146.718,0.99,356,"Amazon Digital Services,  Inc.",247
+335,Jaws,Peter Benchley,Intermediate,3.96,102574,fiction,1227.54,736.524,4.99,357,Simon and Schuster Digital Sales Inc,246
+336,The History of Love,Nicole Krauss,Intermediate,3.91,98379,fiction,977.55,0.0,3.99,359,"Amazon Digital Services,  Inc.",245
+337,Pippi LÃ¥ngstrump,"Astrid Lindgren, Lauren Child, Florence Lamborn, Nancy Seligsohn",Excellent,4.11,123065,fiction,977.55,586.53,3.99,360,"Amazon Digital Services,  Inc.",245
+338,L'Ã©lÃ©gance du hÃ©risson,"Muriel Barbery, Alison Anderson",Intermediate,3.73,101669,fiction,1698.57,1019.142,6.99,363,Hachette Book Group,243
+339,Team of Rivals: The Political Genius of Abraham Lincoln,"Doris Kearns Goodwin, Suzanne Toren",Excellent,4.3,102923,fiction,726.57,435.942,2.99,364,"Amazon Digital Services,  Inc.",243
+340,Dead in the Family,Charlaine Harris,Intermediate,3.88,127379,fiction,1494.45,896.67,6.15,364,"Amazon Digital Services,  Inc.",243
+341,La peste,"Albert Camus, Stuart Gilbert",Intermediate,3.97,95803,fiction,965.58,0.0,3.99,366,"Amazon Digital Services,  Inc.",242
+342,The Reptile Room,"Lemony Snicket, Brett Helquist",Intermediate,3.95,130213,fiction,1202.59,721.554,4.99,367,Simon and Schuster Digital Sales Inc,241
+343,Brain on Fire,Susannah Cahalan,Intermediate,4.0,92849,fiction,2566.65,1539.99,10.65,368,Hachette Book Group,241
+344,Wicked Lovely ,Melissa Marr,Intermediate,3.69,131034,fiction,1197.6,718.56,4.99,370,Simon and Schuster Digital Sales Inc,240
+345,Curious George,H.A. Rey,Excellent,4.13,105473,fiction,236.61,141.966,0.99,371,"Amazon Digital Services,  Inc.",239
+346,Die unendliche Geschichte,"Michael Ende, Ralph Manheim, Roswitha Quadflieg",Excellent,4.17,109110,fiction,953.61,0.0,3.99,372,"Amazon Digital Services,  Inc.",239
+347,A Beautiful Mind,Sylvia Nasar,Excellent,4.12,98276,fiction,1544.62,926.772,6.49,373,Random House LLC,238
+348,The Jungle,"Upton Sinclair, Earl Lee, Kathleen DeGrave",Intermediate,3.72,97468,fiction,1419.63,851.778,5.99,375,Random House LLC,237
+349,The Summoning,Kelley Armstrong,Excellent,4.03,132285,fiction,471.63,0.0,1.99,376,"Amazon Digital Services,  Inc.",237
+350,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,Oliver Sacks,Excellent,4.04,102419,nonfiction,1182.63,709.578,4.99,376,Random House LLC,237
+351,Storm Island,Ken Follett,Excellent,4.16,93475,fiction,708.63,0.0,2.99,376,"Amazon Digital Services,  Inc.",237
+352,The Blind Assassin,Margaret Atwood,Intermediate,3.95,98464,nonfiction,1885.64,1131.384,7.99,378,HarperCollins Christian Publishing,236
+353,Hollow City,Ransom Riggs,Excellent,4.07,73149,fiction,1642.65,985.59,6.99,380,Penguin Group (USA) LLC,235
+354,House of Sand and Fog,Andre Dubus III,Intermediate,3.83,55381,fiction,933.66,560.196,3.99,381,"Amazon Digital Services,  Inc.",234
+355,The Girl with All the Gifts,M.R. Carey,Intermediate,3.93,99729,fiction,463.67,278.202,1.99,383,Simon and Schuster Digital Sales Inc,233
+356,As I Lay Dying,William Faulkner,Intermediate,3.72,103547,nonfiction,461.68,277.008,1.99,385,HarperCollins Publishers,6264
+357,Harold and the Purple Crayon,Crockett Johnson,Excellent,4.24,107221,fiction,925.68,0.0,3.99,385,"Amazon Digital Services,  Inc.",6264
+358,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,Excellent,4.35,137558,nonfiction,2460.15,1476.09,10.65,387,Random House LLC,6237
+360,Fool Moon ,Jim Butcher,Excellent,4.04,111371,fiction,687.7,412.62,2.99,389,Macmillan,6210
+361,David and Goliath,Malcolm Gladwell,Intermediate,3.9,90083,nonfiction,2509.3,1505.58,10.91,389,Random House LLC,6210
+362,é‹¼ã®éŒ¬é‡‘è¡“å¸« 1,"Hiromu Arakawa, Akira Watanabe",Famous,4.49,93990,fiction,226.71,0.0,0.99,391,"Amazon Digital Services,  Inc.",6183
+363,Guards! Guards!,Terry Pratchett,Excellent,4.32,108652,fiction,1142.71,0.0,4.99,392,"Amazon Digital Services,  Inc.",6183
+364,The Year of Magical Thinking,Joan Didion,Intermediate,3.86,94590,fiction,909.72,0.0,3.99,393,"Amazon Digital Services,  Inc.",6156
+365,We Need to Talk About Kevin,Lionel Shriver,Excellent,4.07,101343,fiction,5902.92,3541.752,25.89,393,HarperCollins Publishers,6156
+366,Rendezvous with Rama,Arthur C. Clarke,Excellent,4.06,93151,fiction,1468.69,881.214,6.47,395,"Amazon Digital Services,  Inc.",6129
+367,The Queen of the Damned,Anne Rice,Intermediate,3.86,110693,fiction,223.74,134.244,0.99,397,"Amazon Digital Services,  Inc.",6102
+368,The Age of Innocence,"Edith Wharton, Maureen Howard",Intermediate,3.93,102646,fiction,1188.76,713.256,5.26,398,"Amazon Digital Services,  Inc.",6102
+369,The Selfish Gene,Richard Dawkins,Excellent,4.11,96564,fiction,897.75,538.65,3.99,400,"Amazon Digital Services,  Inc.",6075
+370,Year of Wonders: A Novel of the Plague,Geraldine Brooks,Intermediate,4.0,104283,fiction,221.76,0.0,0.99,401,"Amazon Digital Services,  Inc.",6048
+371,The Black Echo,Michael Connelly,Excellent,4.08,98591,nonfiction,1274.56,764.736,5.69,401,"Amazon Digital Services,  Inc.",6048
+372,Anthem,Ayn Rand,Intermediate,3.62,95620,fiction,1112.77,0.0,4.99,403,"Amazon Digital Services,  Inc.",6021
+373,Gabriel's Inferno,Sylvain Reynard,Excellent,4.02,119633,fiction,1781.77,1069.062,7.99,404,Penguin Group (USA) LLC,6021
+374,Cloudy with a Chance of Meatballs,"Judi Barrett, Ron Barrett",Excellent,4.15,104677,fiction,1662.78,997.668,7.49,406,Penguin Group (USA) LLC,5994
+375,Major Pettigrew's Last Stand,Helen Simonson,Intermediate,3.87,97745,fiction,660.79,396.474,2.99,408,Simon and Schuster Digital Sales Inc,5967
+376,Vision in White,Nora Roberts,Excellent,4.1,103933,fiction,437.8,262.68,1.99,409,Random House LLC,5940
+377,The Tenth Circle,Jodi Picoult,Novice,3.48,99170,fiction,3955.6,2373.36,17.98,409,"Amazon Digital Services,  Inc.",5940
+378,The Throne of Fire,Rick Riordan,Excellent,4.2,116360,nonfiction,2067.36,1240.416,9.44,411,"Amazon Digital Services,  Inc.",5913
+379,Old Man's War,John Scalzi,Excellent,4.23,97653,fiction,1311.81,787.086,5.99,412,Macmillan,5913
+380,Gerald's Game,Stephen King,Famous,3.47,100158,fiction,433.82,260.292,1.99,413,"Amazon Digital Services,  Inc.",5886
+381,Two for the Dough,Janet Evanovich,Excellent,4.11,116171,nonfiction,2177.82,1306.692,9.99,414,"Amazon Digital Services,  Inc.",5886
+383,The Forever War,Joe Haldeman,Excellent,4.15,87636,fiction,214.83,128.898,0.99,416,"Amazon Digital Services,  Inc.",5859
+384,Insomnia,"Stephen King, Bettina Blanch Tyroller",Intermediate,3.79,100972,fiction,2311.05,1386.63,10.65,416,Random House LLC,5859
+385,Reading Lolita in Tehran: A Memoir in Books,Azar Nafisi,Intermediate,3.57,94696,fiction,1072.85,0.0,4.99,419,"Amazon Digital Services,  Inc.",5805
+386,The Blade Itself,Joe Abercrombie,Excellent,4.14,97501,fiction,1717.85,1030.71,7.99,419,Random House LLC,5805
+387,The Arctic Incident,Eoin Colfer,Intermediate,3.94,108031,nonfiction,642.85,385.71,2.99,420,"Amazon Digital Services,  Inc.",5805
+388,The Shipping News,Annie Proulx,Intermediate,3.83,103151,fiction,1281.86,0.0,5.99,421,"Amazon Digital Services,  Inc.",5778
+389,äººç”ŸãŒã¨ãã‚ãç‰‡ã¥ã‘ã®é­”æ³•,"Marie KondÅ, Cathy Hirano",Intermediate,3.77,105063,fiction,849.87,509.922,3.99,423,"Amazon Digital Services,  Inc.",5751
+390,All the Bright Places,"Jennifer Niven, ÙØ±Ø§Ù†Ú© Ù…Ø¹Ù†ÙˆÛŒ",Excellent,4.19,132087,fiction,423.87,254.322,1.99,423,HarperCollins Publishers,5751
+391,DÃ©jÃ  Dead,Kathy Reichs,Intermediate,3.86,100369,fiction,1062.87,637.722,4.99,424,Hachette Book Group,5751
+392,The Alchemyst: The Secrets of The Immortal Nicholas Flamel,Michael Scott,Intermediate,3.84,58396,fiction,1693.88,1016.328,7.99,425,Penguin Group (USA) LLC,5724
+393,The Marriage Plot,Jeffrey Eugenides,Novice,3.42,90551,fiction,1080.32,648.192,5.12,427,Random House LLC,5697
+394,Hija de la fortuna,"Isabel Allende, Margaret Sayers Peden",Intermediate,3.89,89770,fiction,630.89,0.0,2.99,428,"Amazon Digital Services,  Inc.",5697
+395,Luckiest Girl Alive,Jessica Knoll,Novice,3.48,82504,fiction,2007.6,1204.56,9.56,430,Simon and Schuster Digital Sales Inc,5670
+396,"Crank (Crank, #1)",Ellen Hopkins,Excellent,4.16,104168,fiction,833.91,0.0,3.99,431,"Amazon Digital Services,  Inc.",5643
+397,The Raven Boys,Maggie Stiefvater,Excellent,4.05,121727,nonfiction,206.91,124.146,0.99,432,"Amazon Digital Services,  Inc.",5643
+398,I Am Legend and Other Stories,Richard Matheson,Intermediate,3.99,98795,fiction,621.92,0.0,2.99,433,"Amazon Digital Services,  Inc.",5616
+399,Olive Kitteridge,Elizabeth Strout,Intermediate,3.78,85019,fiction,205.92,0.0,0.99,433,"Amazon Digital Services,  Inc.",5616
+400,Not that Kind of Girl,"Lena Dunham, Joana Avillez",Novice,3.33,88251,nonfiction,1245.92,747.552,5.99,434,Random House LLC,5616
+401,Good to Great: Why Some Companies Make the Leap... and Others Don't,James C. Collins,Excellent,4.04,85277,fiction,1032.93,0.0,4.99,436,"Amazon Digital Services,  Inc.",5589
+402,Fire,Kristin Cashore,Excellent,4.12,98180,fiction,2457.95,1474.77,11.99,439,Penguin Group (USA) LLC,5535
+403,En attendant Godot,Samuel Beckett,Intermediate,3.81,98950,fiction,1621.97,973.182,7.99,444,Penguin Group (USA) LLC,5481
+404,White Fang,Jack London,Intermediate,3.94,100223,fiction,1703.17,1021.902,8.39,444,Random House LLC,5481
+405,Wolves of the Calla,"Stephen King, Bernie Wrightson",Excellent,4.17,98182,fiction,603.98,0.0,2.99,445,"Amazon Digital Services,  Inc.",5454
+406,His Dark Materials,Philip Pullman,Excellent,4.25,88227,fiction,603.98,0.0,2.99,445,"Amazon Digital Services,  Inc.",5454
+407,The Edge of Never,J.A. Redmerski,Excellent,4.26,117508,fiction,600.99,360.594,2.99,447,Simon and Schuster Digital Sales Inc,5427
+408,Reconstructing Amelia,Kimberly McCreight,Intermediate,3.82,86965,nonfiction,198.99,119.394,0.99,447,"Amazon Digital Services,  Inc.",5427
+409,The One Plus One,Jojo Moyes,Intermediate,3.94,87412,fiction,399.99,239.994,1.99,448,Hachette Book Group,5427
+410,The Hours,Michael Cunningham,Intermediate,3.91,97462,fiction,500.0,300.0,2.5,449,HarperCollins Publishers,5400
+411,Wallbanger,Alice Clayton,Excellent,4.1,134805,nonfiction,1898.0,0.0,9.49,450,"Amazon Digital Services,  Inc.",5400
+412,Holidays on Ice,David Sedaris,Intermediate,3.95,82591,fiction,595.01,0.0,2.99,452,"Amazon Digital Services,  Inc.",5373
+413,Desperation,Stephen King,Intermediate,3.8,94821,fiction,196.02,117.612,0.99,453,"Amazon Digital Services,  Inc.",5346
+414,Passion,Lauren Kate,Intermediate,3.89,119735,fiction,790.02,0.0,3.99,454,"Amazon Digital Services,  Inc.",5346
+415,The Kill Order,James Dashner,Intermediate,3.69,96568,fiction,1059.86,635.916,5.38,455,Random House LLC,5319
+416,Angelfall,Susan Ee,Excellent,4.19,73886,fiction,194.04,0.0,0.99,457,"Amazon Digital Services,  Inc.",5292
+417,Empire Falls,Richard Russo,Intermediate,3.91,90811,fiction,586.04,0.0,2.99,458,"Amazon Digital Services,  Inc.",5292
+418,The Fires of Heaven,Robert Jordan,Excellent,4.13,93227,children,1480.05,888.03,7.59,459,Random House LLC,5265
+419,I'll Give You the Sun,Jandy Nelson,Excellent,4.14,140937,fiction,583.05,349.83,2.99,460,Simon and Schuster Digital Sales Inc,5265
+420,Survivor,Chuck Palahniuk,Intermediate,3.93,49551,fiction,192.06,115.236,0.99,462,HarperCollins Publishers,5238
+421,Shopaholic and Baby,Sophie Kinsella,Intermediate,3.77,98130,fiction,191.07,0.0,0.99,463,"Amazon Digital Services,  Inc.",5211
+422,The Dark Tower,Stephen King,Excellent,4.27,93296,fiction,770.07,0.0,3.99,463,"Amazon Digital Services,  Inc.",5211
+423,Twilight Director's Notebook,Catherine Hardwicke,Excellent,4.2,88847,fiction,1726.08,1035.648,8.99,465,HarperCollins Publishers,5184
+424,Shopaholic Abroad,Sophie Kinsella,Intermediate,3.75,93498,fiction,1468.79,881.274,7.69,468,Penguin Group (USA) LLC,5157
+425,"Surely You're Joking, Mr. Feynman! Adventures of a Curious Character",Richard Feynman,Excellent,4.29,91625,fiction,948.1,0.0,4.99,470,"Amazon Digital Services,  Inc.",5130
+426,Linger,Maggie Stiefvater,Intermediate,3.91,125363,fiction,376.11,0.0,1.99,471,"Amazon Digital Services,  Inc.",5103
+428,A Portrait of the Artist as a Young Man,"James Joyce, Seamus Deane",Intermediate,3.6,92569,fiction,565.11,339.066,2.99,472,Random House LLC,5103
+429,The Gathering Storm,"Robert Jordan, Brandon Sanderson",Excellent,4.34,94095,fiction,750.12,0.0,3.99,473,"Amazon Digital Services,  Inc.",5076
+430,Middlemarch,"George Eliot, Michel Faber",Intermediate,3.93,95995,nonfiction,186.12,0.0,0.99,474,"Amazon Digital Services,  Inc.",5076
+431,Point of Retreat,Colleen Hoover,Excellent,4.3,109344,fiction,185.13,0.0,0.99,475,"Amazon Digital Services,  Inc.",5049
+433,The Hobbit and The Lord of the Rings,J.R.R. Tolkien,Famous,4.59,90907,fiction,184.14,110.484,0.99,477,"Amazon Digital Services,  Inc.",5022
+434,Thoughtless,S.C. Stephens,Excellent,4.12,90483,fiction,1114.14,668.484,5.99,478,Penguin Group (USA) LLC,5022
+436,The Dark Half,Stephen King,Intermediate,3.74,94624,fiction,550.16,330.096,2.99,482,Macmillan,4968
+437,Cleopatra: A Life,Stacy Schiff,Intermediate,3.62,73994,fiction,181.17,0.0,0.99,483,"Amazon Digital Services,  Inc.",4941
+438,The World Is Flat: A Brief History of the Twenty-first Century,Thomas L. Friedman,Intermediate,3.66,78271,fiction,544.18,326.508,2.99,485,Hachette Book Group,4914
+439,Steelheart,Brandon Sanderson,Excellent,4.16,76261,fiction,1243.06,745.836,6.83,486,Penguin Group (USA) LLC,4914
+441,Voyage au centre de la Terre,Jules Verne,Intermediate,3.84,89410,nonfiction,1726.2,1035.72,9.59,489,Macmillan,4860
+442,The Happiness Project,Gretchen Rubin,Intermediate,3.57,94456,fiction,177.21,106.326,0.99,491,"Amazon Digital Services,  Inc.",4833
+443,The Man in the High Castle,Philip K. Dick,Intermediate,3.66,84180,fiction,2280.46,1368.276,12.74,492,Hachette Book Group,4833
+444,Helter Skelter: The True Story of The Manson Murders,"Vincent Bugliosi, Curt Gentry",Intermediate,4.0,92158,fiction,176.22,0.0,0.99,493,"Amazon Digital Services,  Inc.",4806
+447,Shadow of Night,Deborah Harkness,Excellent,4.04,97925,fiction,1242.44,745.464,6.98,494,"Amazon Digital Services,  Inc.",4806
+448,Leaving Time,Jodi Picoult,Intermediate,3.94,76553,fiction,175.23,105.138,0.99,495,"Amazon Digital Services,  Inc.",4779
+449,Moon Called,Patricia Briggs,Excellent,4.18,129150,fiction,350.24,0.0,1.99,497,"Amazon Digital Services,  Inc.",4752
+450,Blue Bloods,Melissa de la Cruz,Intermediate,3.68,116687,fiction,702.24,421.344,3.99,497,"Amazon Digital Services,  Inc.",4752
+451,The Alienist,Caleb Carr,Excellent,4.05,96981,fiction,1230.24,738.144,6.99,498,HarperCollins Publishers,4752
+452,Between the World and Me,Ta-Nehisi Coates,Famous,4.4,74218,fiction,523.25,0.0,2.99,499,"Amazon Digital Services,  Inc.",4725
+453,Paradise Lost,"John Milton, John      Leonard",Intermediate,3.8,96316,fiction,868.26,0.0,4.99,502,"Amazon Digital Services,  Inc.",4698
+454,The Big Short: Inside the Doomsday Machine,Michael   Lewis,Excellent,4.26,37090,fiction,1216.26,729.756,6.99,502,Simon and Schuster Digital Sales Inc,4698
+456, A Monster Calls ,"Patrick Ness, Jim Kay, Siobhan Dowd",Excellent,4.36,104579,fiction,1842.45,1105.47,10.65,505,Random House LLC,4671
+457,Towers of Midnight,"Robert Jordan, Brandon Sanderson",Famous,4.42,91383,fiction,344.27,206.562,1.99,505,"Amazon Digital Services,  Inc.",4671
+458,The Day of the Jackal,Frederick Forsyth,Excellent,4.25,85883,fiction,171.27,0.0,0.99,508,"Amazon Digital Services,  Inc.",4671
+459,Rework,"Jason Fried, David Heinemeier Hansson",Intermediate,3.93,88626,fiction,517.27,310.362,2.99,509,Simon and Schuster Digital Sales Inc,4671
+460,Attachments,Rainbow Rowell,Intermediate,3.95,105414,fiction,170.28,102.168,0.99,511,"Amazon Digital Services,  Inc.",4644
+462,Tell the Wolves I'm Home,Carol Rifka Brunt,Excellent,4.04,85582,fiction,340.29,0.0,1.99,514,"Amazon Digital Services,  Inc.",4617
+463,All Creatures Great And Small,James Herriot,Excellent,4.31,64779,fiction,1024.29,0.0,5.99,514,"Amazon Digital Services,  Inc.",4617
+464,The Unbecoming of Mara Dyer,Michelle Hodkin,Excellent,4.09,83847,fiction,1879.29,1127.574,10.99,516,Macmillan,4617
+465,Three to Get Deadly,Janet Evanovich,Excellent,4.14,113400,fiction,1109.79,665.874,6.49,517,Hachette Book Group,4617
+466,The Scarlet Pimpernel,Emmuska Orczy,Excellent,4.06,93217,fiction,648.09,388.854,3.79,517,Hachette Book Group,4617
+467,The Monster at the End of This Book,"Jon Stone, Michael J. Smollin",Famous,4.45,102184,fiction,340.29,0.0,1.99,518,"Amazon Digital Services,  Inc.",4617
+468,Tales of a Fourth Grade Nothing,Judy Blume,Excellent,4.09,106435,fiction,508.3,304.98,2.99,519,Penguin Group (USA) LLC,4590
+469,Shadow and Bone,Leigh Bardugo,Excellent,4.05,135225,fiction,678.3,0.0,3.99,519,"Amazon Digital Services,  Inc.",4590
+470,Het diner,"Herman Koch, Sam Garrett",Novice,3.22,74979,fiction,848.3,0.0,4.99,520,"Amazon Digital Services,  Inc.",4590
+471,Champion,Marie Lu,Excellent,4.37,114623,nonfiction,1688.31,1012.986,9.99,523,Simon and Schuster Digital Sales Inc,4563
+472,Contact,Carl Sagan,Excellent,4.11,90917,fiction,1350.31,810.186,7.99,524,Random House LLC,4563
+473,Lola and the Boy Next Door,Stephanie Perkins,Intermediate,4.0,108370,fiction,674.31,404.586,3.99,524,"Amazon Digital Services,  Inc.",4563
+474,White Teeth,Zadie Smith,Intermediate,3.75,82474,fiction,167.31,100.386,0.99,524,"Amazon Digital Services,  Inc.",4563
+475,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,"Chris Kyle, Scott McEwen, Jim DeFelice",Intermediate,3.97,61422,fiction,2153.06,1291.836,12.74,525,Macmillan,4563
+476,My Horizontal Life: A Collection of One-Night Stands,Chelsea Handler,Intermediate,3.79,83607,nonfiction,1294.54,776.724,7.66,526,Simon and Schuster Digital Sales Inc,4563
+477,The Power of Six,Pittacus Lore,Excellent,4.17,97938,fiction,1843.79,1106.274,10.91,526,Macmillan,4563
+478,The Interestings,Meg Wolitzer,Intermediate,3.54,76566,fiction,1342.32,805.392,7.99,528,HarperCollins Publishers,4536
+479,The Essential Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,Famous,4.65,93001,fiction,166.32,0.0,0.99,530,"Amazon Digital Services,  Inc.",4536
+480,People of the Book,Geraldine Brooks,Intermediate,4.0,95796,fiction,1291.92,775.152,7.69,531,Penguin Group (USA) LLC,4536
+483,"So Long, and Thanks for All the Fish",Douglas Adams,Excellent,4.08,93774,fiction,1985.63,1191.378,11.89,535,HarperCollins Publishers,4509
+484,Der Steppenwolf: ErzÃ¤hlung,"Hermann Hesse, Basil Creighton",Excellent,4.11,80769,fiction,833.33,499.998,4.99,535,"Amazon Digital Services,  Inc.",4509
+485,The Surgeon,Tess Gerritsen,Excellent,4.1,89468,nonfiction,1835.33,1101.198,10.99,536,Random House LLC,4509
+486,The Girl You Left Behind,Jojo Moyes,Intermediate,3.95,80991,fiction,1152.04,691.224,6.94,537,Random House LLC,4482
+487,Royal Assassin,Robin Hobb,Excellent,4.21,82608,fiction,164.34,0.0,0.99,538,"Amazon Digital Services,  Inc.",4482
+488,Childhood's End,Arthur C. Clarke,Excellent,4.09,87141,fiction,1226.74,0.0,7.39,539,"Amazon Digital Services,  Inc.",4482
+489, The Tale of Despereaux,"Kate DiCamillo, Timothy Basil Ering",Intermediate,4.0,113066,fiction,1153.35,692.01,6.99,541,Penguin Group (USA) LLC,4455
+490,"Animal, Vegetable, Miracle: A Year of Food Life","Barbara Kingsolver, Steven L. Hopp, Camille Kingsolver, Richard A. Houser",Excellent,4.03,83881,fiction,823.35,494.01,4.99,542,"Amazon Digital Services,  Inc.",4455
+491,Heir of Fire,Sarah J. Maas,Famous,4.53,123843,fiction,163.35,98.01,0.99,543,Hachette Book Group,4455
+493,The Sweetness at the Bottom of the Pie,Alan Bradley,Intermediate,3.81,99841,fiction,1757.25,1054.35,10.65,545,Penguin Group (USA) LLC,4455
+494,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,Donald Miller,Intermediate,3.92,82090,fiction,162.36,0.0,0.99,546,"Amazon Digital Services,  Inc.",4428
+495,A Breath of Snow and Ashes,Diana Gabaldon,Famous,4.43,87098,nonfiction,1746.6,1047.96,10.65,547,Penguin Group (USA) LLC,4428
+496,The Blood of Olympus,Rick Riordan,Famous,4.41,110719,fiction,162.36,97.416,0.99,549,"Amazon Digital Services,  Inc.",4428
+497,Truly Madly Guilty,Liane Moriarty,Intermediate,3.55,90477,fiction,162.36,0.0,0.99,549,"Amazon Digital Services,  Inc.",4428
+498,"Saga, Volume One","Brian K. Vaughan, Fiona Staples",Excellent,4.25,131906,fiction,162.36,97.416,0.99,550,"Amazon Digital Services,  Inc.",4428
+499,The Art of Fielding,Chad Harbach,Intermediate,3.99,81712,fiction,324.37,194.622,1.99,551,"Amazon Digital Services,  Inc.",4401
+500,A Moveable Feast,Ernest Hemingway,Excellent,4.04,69992,fiction,813.37,488.022,4.99,551,Penguin Group (USA) LLC,4401
+501,Fablehaven,Brandon Mull,Excellent,4.08,99390,fiction,1470.26,882.156,9.02,553,Random House LLC,4401
+502,The Wide Window,"Lemony Snicket, Brett Helquist",Intermediate,3.91,118624,fiction,161.37,96.822,0.99,554,"Amazon Digital Services,  Inc.",4401
+503,Grave Peril,Jim Butcher,Excellent,4.18,97736,nonfiction,322.38,193.428,1.99,557,"Amazon Digital Services,  Inc.",4374
+504,Einstein. His Life and Universe,Walter Isaacson,Excellent,4.08,71156,nonfiction,322.38,193.428,1.99,557,"Amazon Digital Services,  Inc.",4374
+505,Effortless,S.C. Stephens,Excellent,4.37,83085,fiction,160.38,96.228,0.99,558,"Amazon Digital Services,  Inc.",4374
+506,The Street Lawyer,John Grisham,Intermediate,3.81,80577,fiction,320.39,192.234,1.99,561,Random House LLC,4347
+507,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,Intermediate,3.79,92980,nonfiction,642.39,385.434,3.99,561,Hachette Book Group,4347
+508,Pride and Prejudice and Zombies,"Seth Grahame-Smith, Jane Austen",Novice,3.28,103995,fiction,615.02,369.012,3.82,562,"Amazon Digital Services,  Inc.",4347
+509,Lets Explore Diabetes with Owls,David Sedaris,Intermediate,3.8,81616,fiction,478.4,287.04,2.99,565,Macmillan,4320
+510,Ð˜Ð´Ð¸Ð¾Ñ‚,"Fyodor Dostoyevsky, Constance Garnett, Alan Myers, Joseph Frank, Anna Brailovsky",Excellent,4.18,74642,fiction,1438.4,863.04,8.99,565,Penguin Group (USA) LLC,4320
+511,Dirk Gently's Holistic Detective Agency,Douglas Adams,Intermediate,3.97,89569,nonfiction,478.4,0.0,2.99,566,"Amazon Digital Services,  Inc.",4320
+512,Rodrick Rules,Jeff Kinney,Excellent,4.1,91831,fiction,478.4,0.0,2.99,567,"Amazon Digital Services,  Inc.",4320
+513,Why Not Me?,Mindy Kaling,Intermediate,3.89,74199,fiction,1598.4,959.04,9.99,568,Random House LLC,4320
+514,Four: A Divergent Collection,Veronica Roth,Excellent,4.1,97058,fiction,475.41,0.0,2.99,570,"Amazon Digital Services,  Inc.",4293
+515,Modern Romance,"Aziz Ansari, Eric Klinenberg",Intermediate,3.85,94231,fiction,157.41,0.0,0.99,571,"Amazon Digital Services,  Inc.",4293
+516,The One and Only Ivan,"Katherine Applegate, Patricia Castelao",Excellent,4.24,85136,fiction,475.41,0.0,2.99,572,"Amazon Digital Services,  Inc.",4293
+517,The Perfect Storm: A True Story of Men Against the Sea,Sebastian Junger,Excellent,4.07,45382,fiction,634.41,380.646,3.99,572,Hachette Book Group,4293
+518,Elantris,Brandon Sanderson,Excellent,4.17,95950,fiction,314.42,188.652,1.99,574,Simon and Schuster Digital Sales Inc,4266
+519,The Knife of Never Letting Go,Patrick Ness,Intermediate,3.96,99638,fiction,1136.02,681.612,7.19,575,"Amazon Digital Services,  Inc.",4266
+520,One Thousand White Women: The Journals of May Dodd,Jim Fergus,Intermediate,3.88,84367,fiction,472.42,283.452,2.99,576,"Amazon Digital Services,  Inc.",4266
+521,Handle with Care,Jodi Picoult,Intermediate,3.96,90138,fiction,1420.42,852.252,8.99,577,HarperCollins Publishers,4266
+522,Song of Susannah,"Stephen King, Darrel Anderson",Intermediate,3.98,84957,fiction,469.43,0.0,2.99,578,"Amazon Digital Services,  Inc.",4239
+524,Midnight's Children,Salman Rushdie,Intermediate,3.99,75502,nonfiction,1474.23,884.538,9.39,581,"Amazon Digital Services,  Inc.",4239
+525,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,Intermediate,3.86,82535,fiction,154.44,0.0,0.99,585,"Amazon Digital Services,  Inc.",4212
+527,Murder at the Vicarage,Agatha Christie,Excellent,4.03,93963,nonfiction,669.24,401.544,4.29,586,HarperCollins Publishing,4212
+528,Among the Hidden ,Margaret Peterson Haddix,Intermediate,3.97,94478,fiction,2106.45,1263.87,13.59,589,HarperCollins Publishers,4185
+529,In Defense of Food: An Eater's Manifesto,Michael Pollan,Excellent,4.07,80434,fiction,618.45,0.0,3.99,589,"Amazon Digital Services,  Inc.",4185
+530,The Witch of Blackbird Pond,Elizabeth George Speare,Intermediate,3.97,105770,nonfiction,1230.46,738.276,7.99,591,Penguin Group (USA) LLC,4158
+531,The Heir,Kiera Cass,Intermediate,3.85,111044,fiction,614.46,0.0,3.99,592,"Amazon Digital Services,  Inc.",4158
+532,Shopaholic Ties the Knot,Sophie Kinsella,Intermediate,3.77,88139,fiction,460.46,0.0,2.99,594,"Amazon Digital Services,  Inc.",4158
+533,The Woman in White,"Wilkie Collins, Matthew Sweet",Intermediate,3.98,93134,fiction,768.46,0.0,4.99,594,"Amazon Digital Services,  Inc.",4158
+534,Career of Evil,"Robert Galbraith, J.K. Rowling",Excellent,4.21,66979,fiction,1167.32,700.392,7.58,595,Penguin Group (USA) LLC,4158
+535,The Summer I Turned Pretty,Jenny Han,Intermediate,3.96,104730,fiction,610.47,0.0,3.99,596,"Amazon Digital Services,  Inc.",4131
+536,Four to Score ,Janet Evanovich,Excellent,4.17,106871,fiction,151.47,90.882,0.99,597,"Amazon Digital Services,  Inc.",4131
+537,The Color of Water: A Black Man's Tribute to His White Mother,James McBride,Excellent,4.06,80906,fiction,151.47,0.0,0.99,598,"Amazon Digital Services,  Inc.",4131
+538,"SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance","Steven D. Levitt, Stephen J. Dubner",Intermediate,3.95,85006,fiction,1176.57,705.942,7.69,600,Penguin Group (USA) LLC,4131
+539,Darkfever,Karen Marie Moning,Excellent,4.14,110812,fiction,1618.8,971.28,10.65,601,Penguin Group (USA) LLC,4104
+540,Stone of Tears,Terry Goodkind,Excellent,4.1,83235,fiction,1111.12,666.672,7.31,603,Penguin Group (USA) LLC,4104
+541,Heart of the Matter,Emily Giffin,Intermediate,3.73,83461,fiction,910.48,546.288,5.99,603,Simon and Schuster Digital Sales Inc,4104
+542,Vanity Fair: A Novel Without a Hero,"William Makepeace Thackeray, John Carey",Intermediate,3.76,91323,fiction,149.49,0.0,0.99,605,"Amazon Digital Services,  Inc.",4077
+543,The Sirens of Titan,Kurt Vonnegut Jr.,Excellent,4.16,72493,fiction,151.0,90.6,1.0,607,"Amazon Digital Services,  Inc.",4077
+544,Dolores Claiborne,"Stephen King, Dominique Dill",Intermediate,3.81,71053,fiction,661.38,396.828,4.38,608,"Amazon Digital Services,  Inc.",4077
+545,The Nest,Cynthia D'Aprix Sweeney,Novice,3.45,79762,nonfiction,1508.49,905.094,9.99,608,"Amazon Digital Services,  Inc.",4077
+546,"Fables, Volume 1: Legends in Exile","Bill Willingham, Lan Medina, Steve Leialoha, Craig Hamilton, James Jean",Intermediate,3.99,101016,fiction,1125.0,675.0,7.5,610,Penguin Group (USA) LLC,4050
+547,Getting Things Done: How To Achieve Stress-free Productivity,David    Allen,Intermediate,3.98,75665,fiction,598.5,0.0,3.99,611,"Amazon Digital Services,  Inc.",4050
+548,The Celestine Prophecy,James Redfield,Intermediate,3.6,72675,fiction,594.51,356.706,3.99,615,Penguin Group (USA) LLC,4023
+549,My Life Next Door ,Huntley Fitzpatrick,Excellent,4.02,102012,fiction,594.51,356.706,3.99,615,Simon and Schuster Digital Sales Inc,4023
+550,Winter of the World,Ken Follett,Excellent,4.29,71971,nonfiction,1488.51,893.106,9.99,616,HarperCollins Publishing,4023
+551,"è‰²å½©ã‚’æŒãŸãªã„å¤šå´Žã¤ãã‚‹ã¨ã€å½¼ã®å·¡ç¤¼ã®å¹´ [Shikisai o motanai Tazaki Tsukuru to, kare no junrei no toshi]","Haruki Murakami, Philip Gabriel",Intermediate,3.82,67873,fiction,594.51,0.0,3.99,616,"Amazon Digital Services,  Inc.",4023
+552,Lucky,Alice Sebold,Intermediate,3.77,77462,children,1427.42,856.452,9.58,617,"Amazon Digital Services,  Inc.",4023
+553,To The Lighthouse ,Virginia Woolf,Intermediate,3.76,83066,fiction,1144.04,686.424,7.73,619,Macmillan,3996
+554,Five Point Someone: What Not to Do at IIT,Chetan Bhagat,Novice,3.43,67438,fiction,146.52,0.0,0.99,620,"Amazon Digital Services,  Inc.",3996
+555,Guilty Pleasures,Laurell K. Hamilton,Excellent,4.02,104252,fiction,442.52,0.0,2.99,622,"Amazon Digital Services,  Inc.",3996
+556,The Messenger,Markus Zusak,Excellent,4.09,93119,fiction,145.53,87.318,0.99,624,"Amazon Digital Services,  Inc.",3969
+557,Far from the Madding Crowd,"Thomas Hardy, Rosemarie Morgan, Shannon Russell",Intermediate,3.92,87427,fiction,1997.73,1198.638,13.59,624,HarperCollins Publishers,3969
+558,Equal Rites,Terry Pratchett,Intermediate,4.0,88673,fiction,145.53,0.0,0.99,625,"Amazon Digital Services,  Inc.",3969
+559,House of Leaves,Mark Z. Danielewski,Excellent,4.13,75469,fiction,439.53,0.0,2.99,625,"Amazon Digital Services,  Inc.",3969
+560,Cruel & Unusual,Patricia Cornwell,Excellent,4.11,83695,fiction,439.53,263.718,2.99,626,"Amazon Digital Services,  Inc.",3969
+561,Sycamore Row,John Grisham,Intermediate,3.98,56315,fiction,1074.57,644.742,7.31,627,Penguin Group (USA) LLC,3969
+562,Awakened,"P.C. Cast, Kristin Cast",Excellent,4.02,101234,fiction,675.98,405.588,4.63,628,Hachette Book Group,3942
+563,My Ãntonia,Willa Cather,Intermediate,3.76,81102,fiction,582.54,0.0,3.99,629,"Amazon Digital Services,  Inc.",3942
+564,Life As We Knew It,Susan Beth Pfeffer,Intermediate,3.89,94282,nonfiction,1097.92,658.752,7.52,629,"Amazon Digital Services,  Inc.",3942
+565,America (The Book): A Citizen's Guide to Democracy Inaction,"Jon Stewart, Ben Karlin, David Javerbaum, Rich Bloomquist, Steve Bodow, Tim Carvell, Eric Drysdale, J.R. Havlan, Scott Jacobson, Tom Johnson, Rob Kutner, Chris Regan, Jason Reich, Jason Ross, Stephen Colbert, Samantha Bee, Rob Corddry, Brendan Hay, Ed Helms",Excellent,4.02,74511,nonfiction,1166.54,699.924,7.99,630,Random House LLC,3942
+567,The Longest Ride,Nicholas Sparks,Excellent,4.14,71276,fiction,144.54,0.0,0.99,631,"Amazon Digital Services,  Inc.",3942
+568,é“å¾·ç¶“ [dÃ o dÃ© jÄ«ng],"Lao Tzu, Gia-Fu Feng, Jane English, Chungliang Al Huang, Rowena Pattee Kryder, Toinette Lippe",Excellent,4.31,39863,fiction,665.55,399.33,4.59,632,Penguin Group (USA) LLC,3915
+569,Kane and Abel,Jeffrey Archer,Excellent,4.27,74052,fiction,723.55,0.0,4.99,632,"Amazon Digital Services,  Inc.",3915
+570,Change of Heart,Jodi Picoult,Intermediate,3.91,86471,fiction,990.35,594.21,6.83,634,Simon and Schuster Digital Sales Inc,3915
+571,Dry: A Memoir,Augusten Burroughs,Excellent,4.01,70550,children,1448.55,869.13,9.99,635,"Amazon Digital Services,  Inc.",3915
+573,Grey,E.L. James,Intermediate,3.76,75320,fiction,1134.72,680.832,7.88,637,Hachette Book Group,3888
+574,Dune Messiah ,Frank Herbert,Intermediate,3.86,82580,fiction,570.57,0.0,3.99,641,"Amazon Digital Services,  Inc.",3861
+575,The Great Divorce,C.S. Lewis,Excellent,4.28,75031,fiction,1428.57,857.142,9.99,642,Penguin Group (USA) LLC,3861
+577,Eventyr og historier,"Hans Christian Andersen, Lily Owens, Arthur Rackham, Hans Richter",Excellent,4.28,90999,fiction,708.58,0.0,4.99,646,"Amazon Digital Services,  Inc.",3834
+578,New Moon: The Complete Illustrated Movie Companion,Mark Cotta Vaz,Excellent,4.34,82399,fiction,1560.58,936.348,10.99,647,Penguin Group (USA) LLC,61560
+579,Maybe Someday,Colleen Hoover,Excellent,4.33,81707,fiction,969.86,581.916,6.83,649,Random House LLC,61128
+580,Mr Maybe,Jane Green,Novice,3.41,78132,fiction,562.59,0.0,3.99,651,"Amazon Digital Services,  Inc.",61128
+581,Anne of the Island,L.M. Montgomery,Excellent,4.21,97049,fiction,139.59,83.754,0.99,652,Random House LLC,60696
+582,Also sprach Zarathustra,"Friedrich Nietzsche, Walter Kaufmann",Excellent,4.05,65362,fiction,1030.71,618.426,7.31,652,Penguin Group (USA) LLC,59400
+583,North and South,"Elizabeth Gaskell, Alan Shelston",Excellent,4.13,95274,fiction,562.59,0.0,3.99,653,"Amazon Digital Services,  Inc.",58968
+584,A Stolen Life,Jaycee Dugard,Intermediate,3.89,72713,fiction,558.6,0.0,3.99,655,"Amazon Digital Services,  Inc.",57240
+585,The Immortals of Meluha,Amish Tripathi,Intermediate,4.0,62784,fiction,418.6,251.16,2.99,658,"Amazon Digital Services,  Inc.",56808
+586,The Lost World,Michael Crichton,Intermediate,3.72,83389,fiction,1398.6,839.16,9.99,658,"Amazon Digital Services,  Inc.",55728
+587,Requiem,Lauren Oliver,Intermediate,3.74,100593,fiction,698.6,0.0,4.99,659,"Amazon Digital Services,  Inc.",55080
+588,A Crown of Swords,Robert Jordan,Intermediate,4.0,86421,nonfiction,137.61,0.0,0.99,661,"Amazon Digital Services,  Inc.",54000
+589,Aesopica,"Aesop, Laura Harris, Laura Gibbs",Excellent,4.05,88508,fiction,693.61,0.0,4.99,663,"Amazon Digital Services,  Inc.",53784
+590,Blood Meridian: Or the Evening Redness in the West,Cormac McCarthy,Excellent,4.18,71095,fiction,725.88,435.528,5.26,665,Penguin Group (USA) LLC,53784
+591,Finale,Becca Fitzpatrick,Excellent,4.22,107569,fiction,1516.62,909.972,10.99,666,Penguin Group (USA) LLC,53784
+592,Skeleton Crew,Stephen King,Intermediate,3.93,82320,fiction,957.72,574.632,6.94,668,Random House LLC,53568
+594,Two States,Chetan Bhagat,Intermediate,3.42,67866,fiction,836.4,501.84,6.15,675,"Amazon Digital Services,  Inc.",53352
+595,ãƒ´ã‚¡ãƒ³ãƒ‘ã‚¤ã‚¢é¨Žå£« 1,"Matsuri Hino, Tomo Kimura",Excellent,4.1,89733,nonfiction,1225.36,0.0,9.01,675,"Amazon Digital Services,  Inc.",53136
+596,Summer Knight,Jim Butcher,Excellent,4.3,91012,fiction,542.64,0.0,3.99,676,"Amazon Digital Services,  Inc.",52920
+597,Dragonflight,"Anne McCaffrey, Teodor PanasiÅ„ski",Excellent,4.1,95378,fiction,133.65,0.0,0.99,679,"Amazon Digital Services,  Inc.",52488
+598,"The History of the Hobbit, Part One: Mr. Baggins","John D. Rateliff, J.R.R. Tolkien",Intermediate,3.81,108399,fiction,538.65,0.0,3.99,680,"Amazon Digital Services,  Inc.",52488
+599,Ugly Love,Colleen Hoover,Excellent,4.3,107583,fiction,808.65,485.19,5.99,681,Random House LLC,52488
+600,Chocolat,Joanne Harris,Intermediate,3.95,84770,nonfiction,873.68,524.208,6.52,682,"Amazon Digital Services,  Inc.",52056
+601,The Amityville Horror,Jay Anson,Intermediate,3.82,80959,fiction,1191.26,714.756,8.89,684,Hachette Book Group,52056
+603,Gabriel's Rapture,Sylvain Reynard,Excellent,4.22,91213,fiction,530.67,0.0,3.99,689,"Amazon Digital Services,  Inc.",51624
+604,Dubliners,"James Joyce, Jeri Johnson",Intermediate,3.85,73140,fiction,397.67,238.602,2.99,690,Random House LLC,51408
+605,Let the Great World Spin,Colum McCann,Intermediate,3.93,71515,fiction,394.68,0.0,2.99,692,"Amazon Digital Services,  Inc.",51192
+606,The Eternity Code,Eoin Colfer,Excellent,4.04,94437,fiction,394.68,0.0,2.99,692,"Amazon Digital Services,  Inc.",51192
+607,Tell No One,Harlan Coben,Excellent,4.11,78070,fiction,394.68,236.808,2.99,693,"Amazon Digital Services,  Inc.",50976
+608,The Tommyknockers,Stephen King,Famous,3.48,89262,fiction,790.68,0.0,5.99,693,"Amazon Digital Services,  Inc.",50760
+609,Hex Hall,Rachel Hawkins,Intermediate,3.96,109881,fiction,526.68,0.0,3.99,693,"Amazon Digital Services,  Inc.",50544
+610,Steal Like an Artist,Austin Kleon,Intermediate,3.86,93625,fiction,130.68,78.408,0.99,694,"Amazon Digital Services,  Inc.",50328
+611,Cryptonomicon,Neal Stephenson,Excellent,4.25,72683,children,327.36,196.416,2.48,694,Random House LLC,50112
+612,Beautiful Bastard,Christina Lauren,Excellent,4.05,111668,fiction,394.68,0.0,2.99,695,"Amazon Digital Services,  Inc.",49896
+613,Prodigal Summer,Barbara Kingsolver,Intermediate,3.98,78529,fiction,260.69,156.414,1.99,696,Simon and Schuster Digital Sales Inc,49896
+614,We Were the Mulvaneys,Joyce Carol Oates,Intermediate,3.7,77251,fiction,1395.15,837.09,10.65,698,Hachette Book Group,49680
+615,Understanding Comics: The Invisible Art,Scott McCloud,Intermediate,3.98,77277,nonfiction,129.69,77.814,0.99,699,"Amazon Digital Services,  Inc.",49680
+616,Beautiful Darkness,"Kami Garcia, Margaret Stohl",Intermediate,3.84,95447,nonfiction,260.69,156.414,1.99,700,HarperCollins Publishers,49248
+617,The Psychopath Test,Jon Ronson,Intermediate,3.91,44097,fiction,492.7,295.62,3.79,701,Macmillan,49032
+618,Vanishing Acts,Jodi Picoult,Intermediate,3.68,79662,fiction,258.7,155.22,1.99,703,Random House LLC,48816
+619,Absolute Power,David Baldacci,Excellent,4.15,72481,fiction,1656.2,993.72,12.74,704,Macmillan,48816
+620,Hot Six,Janet Evanovich,Excellent,4.18,99329,fiction,514.71,0.0,3.99,705,"Amazon Digital Services,  Inc.",48600
+621,The Time Keeper,Mitch Albom,Intermediate,3.85,72277,fiction,127.71,0.0,0.99,707,"Amazon Digital Services,  Inc.",48384
+622,A Dirty Job,Christopher Moore,Excellent,4.08,78523,nonfiction,127.71,76.626,0.99,707,"Amazon Digital Services,  Inc.",48168
+623,Moneyball: The Art of Winning an Unfair Game,Michael   Lewis,Excellent,4.24,66406,fiction,127.71,0.0,0.99,708,"Amazon Digital Services,  Inc.",47952
+624,The Amulet of Samarkand,Jonathan Stroud,Intermediate,3.99,86062,fiction,127.71,0.0,0.99,709,"Amazon Digital Services,  Inc.",47736
+625,I Am America (And So Can You!),"Stephen Colbert, Richard Dahm, Paul Dinello, Allison Silverman, Michael Brumm, Eric Drydale, Rob Dubbin, Glenn Eichler, Peter Grosz, Peter Gwinn, Jay Katsir, Laura Krafft, Frank Lesser, Tom Purcell",Intermediate,3.91,71023,fiction,885.76,531.456,6.92,710,Penguin Group (USA) LLC,47520
+626,The One Minute Manager,"Kenneth H. Blanchard, Spencer Johnson",Intermediate,3.85,70241,children,888.32,532.992,6.94,710,"Amazon Digital Services,  Inc.",47520
+627,Exodus,Leon Uris,Excellent,4.33,77258,fiction,1470.72,882.432,11.49,711,Random House LLC,47304
+628,Stones from the River,Ursula Hegi,Excellent,4.07,80056,fiction,787.2,472.32,6.15,712,"Amazon Digital Services,  Inc.",47304
+629,The Big Sleep,Raymond Chandler,Excellent,4.04,84489,fiction,126.72,76.032,0.99,713,"Amazon Digital Services,  Inc.",47088
+630,Cannery Row ,John Steinbeck,Excellent,4.02,81598,fiction,1153.28,691.968,9.01,713,HarperCollins Publishers,47088
+631,Seriously...I'm Kidding,Ellen DeGeneres,Intermediate,3.72,74358,fiction,843.28,505.968,6.64,714,Hachette Book Group,46872
+632,The Miserable Mill,"Lemony Snicket, Brett Helquist",Intermediate,3.83,101325,fiction,1395.73,837.438,10.99,716,Penguin Group (USA) LLC,46872
+633,The Snow Child,Eowyn Ivey,Intermediate,3.95,72328,fiction,125.73,75.438,0.99,716,"Amazon Digital Services,  Inc.",46872
+634,Wait for You,"J. Lynn, Jennifer L. Armentrout",Excellent,4.19,106236,fiction,506.73,0.0,3.99,717,"Amazon Digital Services,  Inc.",46440
+635,The Last Straw,Jeff Kinney,Excellent,4.11,82518,fiction,502.74,0.0,3.99,719,"Amazon Digital Services,  Inc.",46440
+636,La Divina Commedia,"Dante Alighieri, Allen Mandelbaum, Eugenio Montale",Excellent,4.06,74130,fiction,124.74,0.0,0.99,720,"Amazon Digital Services,  Inc.",46008
+637,The Tao of Pooh,"Benjamin Hoff, Ernest H. Shepard",Excellent,4.01,69975,fiction,1198.75,719.25,9.59,724,HarperCollins Publishers,46008
+638,Onyx,Jennifer L. Armentrout,Excellent,4.33,111448,fiction,1127.5,676.5,9.02,725,Random House LLC,46008
+639,"Unravel Me (Shatter Me, #2)",Tahereh Mafi,Excellent,4.28,109183,fiction,122.76,73.656,0.99,728,"Amazon Digital Services,  Inc.",45792
+640,The Birth of Venus,Sarah Dunant,Intermediate,3.79,78129,fiction,370.76,0.0,2.99,730,"Amazon Digital Services,  Inc.",45576
+641,The Opal Deception,Eoin Colfer,Excellent,4.04,95638,fiction,121.77,73.062,0.99,733,"Amazon Digital Services,  Inc.",45360
+642,Det som inte dÃ¶dar oss,"David Lagercrantz, Stieg Larsson, George Goulding",Intermediate,3.73,53751,fiction,121.77,73.062,0.99,736,Random House LLC,45144
+643,The Girls,Emma Cline,Novice,3.49,76761,fiction,974.78,584.868,7.99,737,Random House LLC,44928
+644,The Goose Girl,Shannon Hale,Excellent,4.18,92952,fiction,120.78,72.468,0.99,738,Simon and Schuster Digital Sales Inc,44280
+645,Mystic River,Dennis Lehane,Excellent,4.19,86103,fiction,1096.78,658.068,8.99,739,Random House LLC,43848
+647,The Prince and the Pauper,"Mark Twain, Everett H. Emerson",Intermediate,3.84,84682,fiction,966.79,580.074,7.99,741,Random House LLC,43416
+648,The Moon is a Harsh Mistress,Robert A. Heinlein,Excellent,4.17,80366,fiction,930.49,558.294,7.69,743,Penguin Group (USA) LLC,43416
+649,The Forty Rules of Love,"Elif Shafak, Ø¥Ù„ÙŠÙ Ø´Ø§ÙØ§Ù‚, Ø§Ø±Ø³Ù„Ø§Ù† ÙØµÛŒØ­ÛŒ, Ù…Ø­Ù…Ø¯ Ø¯Ø±ÙˆÙŠØ´",Excellent,4.17,35283,fiction,119.79,71.874,0.99,743,"Amazon Digital Services,  Inc.",43416
+650,High Five,Janet Evanovich,Excellent,4.17,92737,children,671.55,402.93,5.55,745,"Amazon Digital Services,  Inc.",43200
+651,Joyland,Stephen King,Intermediate,3.9,75018,fiction,118.8,0.0,0.99,746,"Amazon Digital Services,  Inc.",42768
+652,é€²æ’ƒã®å·¨äºº 1,"Hajime Isayama, Sheldon Drzka",Famous,4.42,82565,fiction,118.8,71.28,0.99,748,"Amazon Digital Services,  Inc.",42552
+653,Tender Is the Night,F. Scott Fitzgerald,Intermediate,3.83,79008,fiction,118.8,71.28,0.99,750,"Amazon Digital Services,  Inc.",42120
+655,The Glass Menagerie,Tennessee Williams,Intermediate,3.67,90032,nonfiction,117.81,70.686,0.99,752,"Amazon Digital Services,  Inc.",41904
+656,L'amica geniale,"Elena Ferrante, Ann Goldstein",Intermediate,3.88,64637,nonfiction,912.73,547.638,7.67,753,Random House LLC,41472
+657,"The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",Timothy Ferriss,Intermediate,3.84,66129,fiction,355.81,0.0,2.99,757,"Amazon Digital Services,  Inc.",41256
+658,The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny,Robin S. Sharma,Intermediate,3.77,52031,fiction,117.81,0.0,0.99,759,"Amazon Digital Services,  Inc.",40824
+659,Rules of Civility,Amor Towles,Intermediate,3.99,75541,fiction,712.81,427.686,5.99,760,Penguin Group (USA) LLC,40824
+660,Ringworld,Larry Niven,Intermediate,3.96,76925,fiction,117.81,70.686,0.99,760,"Amazon Digital Services,  Inc.",40176
+661,Between Shades of Gray,Ruta Sepetys,Excellent,4.36,87718,fiction,236.81,142.086,1.99,761,"Amazon Digital Services,  Inc.",40176
+662,Frindle,"Andrew Clements, Brian Selznick",Intermediate,3.79,83351,fiction,712.81,427.686,5.99,762,Macmillan,39960
+663,Dog Days,Jeff Kinney,Excellent,4.14,78592,fiction,474.81,0.0,3.99,764,"Amazon Digital Services,  Inc.",39744
+664,The Round House,Louise Erdrich,Intermediate,3.91,67928,fiction,355.81,0.0,2.99,764,"Amazon Digital Services,  Inc.",39312
+665,A Wind in the Door,Madeleine L'Engle,Excellent,4.07,87277,fiction,355.81,0.0,2.99,765,"Amazon Digital Services,  Inc.",39312
+666,Free Four: Tobias Tells the Divergent Story,Veronica Roth,Excellent,4.18,81621,nonfiction,1188.81,713.286,9.99,765,Hachette Book Group,38880
+667,A Little Life,Hanya Yanagihara,Excellent,4.27,66782,fiction,355.81,213.486,2.99,766,"Amazon Digital Services,  Inc.",38664
+668,"Y: The Last Man, Vol. 1: Unmanned","Brian K. Vaughan, Pia Guerra, JosÃ© MarzÃ¡n Jr.",Excellent,4.12,81326,fiction,117.81,0.0,0.99,767,"Amazon Digital Services,  Inc.",38664
+669,The Alloy of Law,Brandon Sanderson,Excellent,4.2,72185,fiction,593.81,0.0,4.99,768,"Amazon Digital Services,  Inc.",38448
+670,Dead Reckoning,Charlaine Harris,Intermediate,3.77,87066,nonfiction,117.81,70.686,0.99,770,"Amazon Digital Services,  Inc.",38448
+671,The Accidental Tourist,"Anne Tyler, Jennifer Bassett",Intermediate,3.9,80075,fiction,784.21,470.526,6.59,770,"Amazon Digital Services,  Inc.",38448
+673,The Invisible Man,H.G. Wells,Intermediate,3.62,84778,fiction,117.81,70.686,0.99,772,Macmillan,38016
+674,ä¸–ç•Œã®çµ‚ã‚Šã¨ãƒãƒ¼ãƒ‰ãƒœã‚¤ãƒ«ãƒ‰ãƒ»ãƒ¯ãƒ³ãƒ€ãƒ¼ãƒ©ãƒ³ãƒ‰ [Sekai no owari to hÄdoboirudo wandÄrando],"Haruki Murakami, Alfred Birnbaum",Excellent,4.15,63764,fiction,117.81,70.686,0.99,773,"Amazon Digital Services,  Inc.",38016
+675,Na margem do rio Piedra eu sentei e chorei,"Paulo Coelho, Alan R. Clarke",Intermediate,3.57,62106,fiction,915.11,549.066,7.69,775,Random House LLC,37584
+676,Der Schweizerische Robinson,"Johann David Wyss, Scott McKowen, Arthur Pober",Intermediate,3.92,78355,fiction,355.81,0.0,2.99,779,"Amazon Digital Services,  Inc.",37584
+677,Four Past Midnight,Stephen King,Intermediate,3.9,76376,nonfiction,640.22,384.132,5.38,779,HarperCollins Publishers,37368
+678,The Marriage Bargain,Jennifer Probst,Intermediate,3.81,91630,fiction,1307.81,784.686,10.99,781,Random House LLC,37368
+679,Anne of Avonlea,L.M. Montgomery,Excellent,4.21,99918,fiction,117.81,70.686,0.99,782,"Amazon Digital Services,  Inc.",37368
+680,The Little Engine That Could,"Watty Piper, Doris Hauman, George Hauman",Excellent,4.15,82102,fiction,593.81,0.0,4.99,783,"Amazon Digital Services,  Inc.",37152
+681,We Are All Completely Beside Ourselves,Karen Joy Fowler,Intermediate,3.71,59973,fiction,355.81,0.0,2.99,783,"Amazon Digital Services,  Inc.",37152
+682,Children of the Mind,Orson Scott Card,Intermediate,3.74,74517,fiction,1022.21,613.326,8.59,784,"Amazon Digital Services,  Inc.",36936
+683,Ulysses,James Joyce,Intermediate,3.74,76791,fiction,117.81,0.0,0.99,786,"Amazon Digital Services,  Inc.",36936
+684,Someone Like You,Sarah Dessen,Intermediate,3.94,84358,nonfiction,355.81,213.486,2.99,786,Simon and Schuster Digital Sales Inc,36936
+685,Moloka'i,Alan Brennert,Excellent,4.15,75307,nonfiction,950.81,570.486,7.99,787,HarperCollins Christian Publishing,36720
+686,The Witching Hour,Anne Rice,Excellent,4.1,79824,nonfiction,357.54,214.524,3.03,789,"Amazon Digital Services,  Inc.",36504
+687,This Present Darkness,Frank E. Peretti,Excellent,4.24,71815,fiction,352.82,0.0,2.99,791,"Amazon Digital Services,  Inc.",36504
+688,The Coincidence of Callie & Kayden,Jessica Sorensen,Excellent,4.21,97615,fiction,116.82,70.092,0.99,792,"Amazon Digital Services,  Inc.",36504
+689,Fates and Furies,Lauren Groff,Intermediate,3.56,66085,fiction,862.58,517.548,7.31,792,HarperCollins Publishers,36504
+691,Stuart Little,"E.B. White, Garth Williams",Intermediate,3.88,89033,fiction,352.82,211.692,2.99,797,"Amazon Digital Services,  Inc.",36504
+692,The Foundation Trilogy,Isaac Asimov,Excellent,4.39,72311,fiction,1060.82,636.492,8.99,797,HarperCollins Publishers,36504
+693,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",Brian Greene,Excellent,4.06,32626,fiction,352.82,0.0,2.99,798,"Amazon Digital Services,  Inc.",36288
+694,The Austere Academy,"Lemony Snicket, Brett Helquist",Intermediate,3.97,99311,fiction,116.82,0.0,0.99,799,"Amazon Digital Services,  Inc.",36288
+695,Seven Up,Janet Evanovich,Excellent,4.15,94506,fiction,1320.42,792.252,11.19,800,HarperCollins Publishers,36072
+696,The Awakening,Kelley Armstrong,Excellent,4.16,95026,fiction,761.1,456.66,6.45,802,Simon and Schuster Digital Sales Inc,36072
+697,Death Masks,Jim Butcher,Excellent,4.32,83664,children,654.9,392.94,5.55,802,"Amazon Digital Services,  Inc.",36072
+698,Stellaluna,Janell Cannon,Excellent,4.22,87423,fiction,116.82,70.092,0.99,803,"Amazon Digital Services,  Inc.",36072
+699,Before They Are Hanged,Joe Abercrombie,Excellent,4.27,68865,fiction,116.82,70.092,0.99,804,Random House LLC,35856
+700,Loving Frank,Nancy Horan,Intermediate,3.73,72734,fiction,824.82,494.892,6.99,804,Hachette Book Group,35640
+701,Hard Eight,"Janet Evanovich, Lorelei King",Excellent,4.17,93057,nonfiction,1060.82,636.492,8.99,805,Random House LLC,35640
+702,The Vile Village,"Lemony Snicket, Brett Helquist",Intermediate,3.94,89733,fiction,706.82,424.092,5.99,808,Penguin Group (USA) LLC,35640
+703,Sybil,Flora Rheta Schreiber,Intermediate,3.99,72493,nonfiction,502.68,301.608,4.26,809,HarperCollins Publishing,35640
+704,Cosmos,Carl Sagan,Excellent,4.35,76440,nonfiction,1131.62,678.972,9.59,810,Penguin Group (USA) LLC,35640
+705,Haunted: A Novel of Stories,Chuck Palahniuk,Intermediate,3.59,68861,fiction,234.82,140.892,1.99,810,Simon and Schuster Digital Sales Inc,35424
+706,The Shell Seekers,Rosamunde Pilcher,Excellent,4.13,73573,fiction,588.82,0.0,4.99,811,"Amazon Digital Services,  Inc.",35424
+707,What Is the What: The Autobiography of Valentino Achak Deng,Dave Eggers,Excellent,4.16,59333,fiction,1680.32,1008.192,14.24,811,Penguin Group (USA) LLC,35424
+708,CrÃ³nica de una muerte anunciada,"Gabriel GarcÃ­a MÃ¡rquez, Gregory Rabassa",Intermediate,3.95,56200,fiction,1128.08,676.848,9.56,813,Simon and Schuster Digital Sales Inc,35208
+710,Killing Lincoln: The Shocking Assassination that Changed America Forever,"Bill O'Reilly, Martin Dugard",Excellent,4.02,71868,children,872.02,523.212,7.39,816,"Amazon Digital Services,  Inc.",35208
+711,The Lowland,Jhumpa Lahiri,Intermediate,3.82,62231,fiction,470.82,282.492,3.99,818,"Amazon Digital Services,  Inc.",35208
+712,The Ruins of Gorlan,John Flanagan,Excellent,4.2,83085,nonfiction,824.82,494.892,6.99,818,Random House LLC,34992
+713,Wintergirls,Laurie Halse Anderson,Intermediate,3.98,87665,fiction,352.82,0.0,2.99,819,"Amazon Digital Services,  Inc.",34992
+715,Assassin's Quest,Robin Hobb,Excellent,4.18,67125,fiction,470.82,0.0,3.99,821,"Amazon Digital Services,  Inc.",34776
+716,Rosemary's Baby,Ira Levin,Intermediate,3.96,78766,fiction,588.82,0.0,4.99,823,"Amazon Digital Services,  Inc.",34776
+717,The Talisman,"Stephen King, Peter Straub",Excellent,4.12,79508,nonfiction,234.82,140.892,1.99,823,"Amazon Digital Services,  Inc.",34776
+718,The Path of Daggers,Robert Jordan,Intermediate,3.9,74815,fiction,234.82,140.892,1.99,824,"Amazon Digital Services,  Inc.",34560
+719,The Dharma Bums,Jack Kerouac,Intermediate,3.94,62454,children,725.7,435.42,6.15,825,"Amazon Digital Services,  Inc.",34560
+720,The Reckoning,Kelley Armstrong,Excellent,4.21,92922,fiction,466.83,0.0,3.99,826,"Amazon Digital Services,  Inc.",34560
+721,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity",Katherine Boo,Intermediate,3.97,69596,fiction,934.83,560.898,7.99,827,Random House LLC,34344
+722,Mary Poppins,"P.L. Travers, Mary Shepard",Excellent,4.05,82706,fiction,349.83,209.898,2.99,830,"Amazon Digital Services,  Inc.",34128
+723,Red Seas Under Red Skies,Scott Lynch,Excellent,4.23,68255,fiction,349.83,209.898,2.99,831,"Amazon Digital Services,  Inc.",34128
+724,The House on Mango Street,Sandra Cisneros,Intermediate,3.57,81579,fiction,115.83,0.0,0.99,832,"Amazon Digital Services,  Inc.",34128
+725,City of Thieves,David Benioff,Excellent,4.28,68063,fiction,232.83,139.698,1.99,832,HarperCollins Publishers,34128
+726,Halfway to the Grave,Jeaniene Frost,Excellent,4.18,106608,fiction,232.83,139.698,1.99,834,"Amazon Digital Services,  Inc.",33912
+727,The Twits,"Roald Dahl, Quentin Blake",Intermediate,3.94,82458,fiction,855.27,513.162,7.31,836,Random House LLC,33696
+728,Abhorsen,Garth Nix,Excellent,4.29,80740,nonfiction,1519.83,911.898,12.99,836,"Amazon Digital Services,  Inc.",33696
+729,The Beach House,"James Patterson, Peter de Jonge",Intermediate,3.82,68676,fiction,466.83,0.0,3.99,837,"Amazon Digital Services,  Inc.",33480
+730,Eyes of the Dragon,Stephen King,Intermediate,3.92,72714,nonfiction,700.83,420.498,5.99,837,HarperCollins Publishers,33264
+731,Children of Dune,Frank Herbert,Intermediate,3.9,74133,fiction,115.83,0.0,0.99,838,"Amazon Digital Services,  Inc.",33264
+732,Leviathan Wakes,James S.A. Corey,Excellent,4.2,68416,nonfiction,1689.48,1013.688,14.44,840,HarperCollins Publishers,33048
+733,Queen of Shadows,Sarah J. Maas,Famous,4.6,99067,fiction,349.83,209.898,2.99,841,Macmillan,33048
+734,Maus II : And Here My Troubles Began ,Art Spiegelman,Famous,4.41,90147,nonfiction,583.83,350.298,4.99,842,Hachette Book Group,32832
+735,The Snowy Day,Ezra Jack Keats,Excellent,4.13,81914,fiction,1170.0,702.0,10.0,843,"Amazon Digital Services,  Inc.",32832
+736,To the Nines,Janet Evanovich,Excellent,4.16,86963,fiction,1402.83,841.698,11.99,844,Penguin Group (USA) LLC,32832
+737,Where We Belong,Emily Giffin,Intermediate,3.86,68224,nonfiction,115.83,0.0,0.99,845,"Amazon Digital Services,  Inc.",32616
+738,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus,Richard   Preston,Excellent,4.1,72207,fiction,349.83,0.0,2.99,846,"Amazon Digital Services,  Inc.",32616
+739,ã‚¹ãƒ—ãƒ¼ãƒˆãƒ‹ã‚¯ã®æ‹äºº [SupÅ«toniku no Koibito],"Haruki Murakami, Philip Gabriel",Intermediate,3.82,62229,fiction,1084.59,650.754,9.27,846,Penguin Group (USA) LLC,32616
+740,The Signature of All Things,Elizabeth Gilbert,Intermediate,3.81,61135,nonfiction,232.83,139.698,1.99,848,"Amazon Digital Services,  Inc.",32400
+741,"Eats, Shoots and Leaves",Lynne Truss,Intermediate,3.86,79117,fiction,466.83,0.0,3.99,852,"Amazon Digital Services,  Inc.",32184
+742,Dead Witch Walking,Kim Harrison,Excellent,4.04,91390,nonfiction,349.83,0.0,2.99,852,"Amazon Digital Services,  Inc.",32184
+744,An Echo in the Bone,Diana Gabaldon,Famous,4.42,68854,fiction,1391.13,834.678,11.89,854,Simon and Schuster Digital Sales Inc,32184
+745,Unearthly,Cynthia Hand,Excellent,4.06,99942,fiction,232.83,139.698,1.99,857,Hachette Book Group,31968
+747,Knife of Dreams,Robert Jordan,Excellent,4.12,71379,fiction,349.83,0.0,2.99,860,"Amazon Digital Services,  Inc.",31752
+748,Hoot,Carl Hiaasen,Intermediate,3.81,75275,fiction,583.83,350.298,4.99,862,Penguin Group (USA) LLC,31752
+749,Ã†neis,"Virgil, Robert Fitzgerald",Intermediate,3.81,75051,fiction,114.84,0.0,0.99,863,"Amazon Digital Services,  Inc.",31752
+750,This is How You Lose Her,Junot DÃ­az,Intermediate,3.75,66720,nonfiction,624.08,374.448,5.38,865,"Amazon Digital Services,  Inc.",31536
+751,ã‚¢ãƒ•ã‚¿ãƒ¼ãƒ€ãƒ¼ã‚¯ [AfutÄ dÄku],"Haruki Murakami, Jay Rubin",Intermediate,3.68,64278,fiction,694.84,0.0,5.99,866,"Amazon Digital Services,  Inc.",31536
+752,Ishmael: An Adventure of the Mind and Spirit,Daniel Quinn,Intermediate,3.97,63304,fiction,892.04,535.224,7.69,867,Random House LLC,31536
+753,It's Not Summer Without You,Jenny Han,Excellent,4.14,80367,fiction,346.84,0.0,2.99,868,"Amazon Digital Services,  Inc.",31536
+754,Pushing the Limits,Katie McGarry,Excellent,4.08,93818,fiction,462.84,0.0,3.99,869,"Amazon Digital Services,  Inc.",31320
+755,Quidditch Through the Ages,"Kennilworthy Whisp, J.K. Rowling",Intermediate,3.85,90908,fiction,114.84,68.904,0.99,869,Random House LLC,31320
+756,Miss Nelson Is Missing!,"Harry Allard, James  Marshall",Excellent,4.26,77206,fiction,1158.84,695.304,9.99,871,Penguin Group (USA) LLC,31320
+757,The Long Walk,"Richard Bachman, Stephen King",Excellent,4.11,71775,nonfiction,462.84,277.704,3.99,871,Hachette Book Group,31320
+758,The Ersatz Elevator,"Lemony Snicket, Brett Helquist",Excellent,4.01,90071,nonfiction,230.84,138.504,1.99,873,Random House LLC,31104
+759,Messenger ,Lois Lowry,Intermediate,3.9,79746,fiction,462.84,277.704,3.99,877,"Amazon Digital Services,  Inc.",30888
+760,Lover Revealed,J.R. Ward,Excellent,4.3,97830,fiction,694.84,0.0,5.99,879,"Amazon Digital Services,  Inc.",30888
+761,'Salem's Lot The Illustrated Edition,"Stephen King, Jerry N. Uelsmann",Excellent,4.25,72797,fiction,770.24,462.144,6.64,879,Hachette Book Group,30672
+762,The Mysterious Benedict Society,"Trenton Lee Stewart, Carson Ellis",Excellent,4.14,87335,fiction,114.84,68.904,0.99,881,"Amazon Digital Services,  Inc.",30672
+763,God is Not Great: How Religion Poisons Everything,Christopher Hitchens,Intermediate,3.96,64347,children,694.84,416.904,5.99,883,"Amazon Digital Services,  Inc.",30456
+764,"Never Too Far (Too Far, #2)",Abbi Glines,Excellent,4.21,97616,fiction,114.84,68.904,0.99,884,"Amazon Digital Services,  Inc.",30456
+765,State of Fear,Michael Crichton,Intermediate,3.69,65397,fiction,114.84,68.904,0.99,885,"Amazon Digital Services,  Inc.",30240
+766,The Statistical Probability of Love at First Sight,Jennifer E. Smith,Intermediate,3.8,89356,fiction,114.84,0.0,0.99,886,"Amazon Digital Services,  Inc.",30240
+767,The Golem's Eye,Jonathan Stroud,Excellent,4.09,69058,nonfiction,810.84,486.504,6.99,886,Simon and Schuster Digital Sales Inc,29808
+768,Still Life with Woodpecker,Tom Robbins,Excellent,4.04,56802,fiction,346.84,0.0,2.99,887,"Amazon Digital Services,  Inc.",29808
+769,Those Who Save Us,Jenna Blum,Excellent,4.12,68480,fiction,114.84,0.0,0.99,890,"Amazon Digital Services,  Inc.",29808
+770,The Broker,John Grisham,Intermediate,3.77,65428,fiction,114.84,68.904,0.99,892,"Amazon Digital Services,  Inc.",29592
+771,Across the Universe,Beth Revis,Intermediate,3.78,94176,fiction,462.84,0.0,3.99,892,"Amazon Digital Services,  Inc.",29376
+772,"The Road Less Traveled:  A New Psychology of Love, Traditional Values, and Spiritual Growth",M. Scott Peck,Excellent,4.03,61238,nonfiction,1042.84,625.704,8.99,893,"Amazon Digital Services,  Inc.",29160
+773,Blood Rites,Jim Butcher,Excellent,4.33,79627,nonfiction,1041.68,625.008,8.98,894,"Amazon Digital Services,  Inc.",28944
+774,The Boxcar Children,"Gertrude Chandler Warner, L. Kate Deal",Excellent,4.09,92916,fiction,1506.84,904.104,12.99,894,Simon and Schuster Digital Sales Inc,28944
+775,The Silent Wife,A.S.A. Harrison,Novice,3.3,60323,nonfiction,784.16,470.496,6.76,897,"Amazon Digital Services,  Inc.",28728
+776,How to Be a Woman,Caitlin Moran,Intermediate,3.73,70446,fiction,346.84,0.0,2.99,898,"Amazon Digital Services,  Inc.",28512
+777,A Court of Mist and Fury,Sarah J. Maas,Famous,4.72,108384,fiction,1158.84,695.304,9.99,900,Simon and Schuster Digital Sales Inc,28512
+778,Life,Keith Richards,Intermediate,3.84,60409,fiction,926.84,556.104,7.99,900,Random House LLC,28512
+779,Unaccustomed Earth,Jhumpa Lahiri,Excellent,4.11,60126,fiction,458.85,0.0,3.99,903,"Amazon Digital Services,  Inc.",28296
+780,The Pilot's Wife,Anita Shreve,Intermediate,3.5,71777,fiction,1367.35,820.41,11.89,904,Simon and Schuster Digital Sales Inc,28296
+781,White Noise,Don DeLillo,Intermediate,3.86,55678,fiction,573.85,0.0,4.99,905,"Amazon Digital Services,  Inc.",28296
+782,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest",Stephen E. Ambrose,Famous,4.42,66079,fiction,343.85,0.0,2.99,907,"Amazon Digital Services,  Inc.",2943
+783,On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life,Charles Darwin,Intermediate,3.97,64162,fiction,1033.85,620.31,8.99,909,HarperCollins Publishers,2943
+784,Blankets,Craig Thompson,Excellent,4.06,70454,fiction,343.85,0.0,2.99,909,"Amazon Digital Services,  Inc.",2943
+785,The Story of Edgar Sawtelle,David Wroblewski,Intermediate,3.6,70382,nonfiction,343.85,0.0,2.99,910,"Amazon Digital Services,  Inc.",2943
+786,Drowning Ruth,Christina Schwarz,Intermediate,3.73,67768,fiction,573.85,0.0,4.99,911,"Amazon Digital Services,  Inc.",2916
+787,Post Office,Charles Bukowski,Excellent,4.01,59295,nonfiction,343.85,206.31,2.99,913,HarperCollins Publishers,2916
+788,All the Pretty Horses,Cormac McCarthy,Intermediate,3.97,68451,fiction,458.85,0.0,3.99,914,"Amazon Digital Services,  Inc.",2916
+790,"One Piece, Volume 01","EiichirÅ Oda, Andy Nakatani",Famous,4.42,67047,fiction,458.85,0.0,3.99,915,"Amazon Digital Services,  Inc.",2916
+791,The Last Unicorn,Peter S. Beagle,Excellent,4.18,76277,fiction,343.85,0.0,2.99,916,"Amazon Digital Services,  Inc.",2916
+792,Magyk,Angie Sage,Intermediate,3.8,86805,fiction,343.85,206.31,2.99,917,"Amazon Digital Services,  Inc.",2916
+793,Fever 1793,Laurie Halse Anderson,Intermediate,3.89,81945,fiction,458.85,0.0,3.99,918,"Amazon Digital Services,  Inc.",2916
+794,The Likeness,Tana French,Excellent,4.05,72480,fiction,803.85,482.31,6.99,920,Penguin Group (USA) LLC,2916
+795,Dead Wake: The Last Crossing of the Lusitania,Erik Larson,Excellent,4.07,61439,fiction,930.35,558.21,8.09,921,Penguin Group (USA) LLC,2916
+796,The Jungle Book,Rudyard Kipling,Intermediate,3.94,67107,fiction,113.85,68.31,0.99,922,"Amazon Digital Services,  Inc.",2916
+797,I Am Pilgrim,Terry Hayes,Excellent,4.23,49740,fiction,573.85,344.31,4.99,924,"Amazon Digital Services,  Inc.",2916
+798,Howl and Other Poems ,"Allen Ginsberg, William Carlos Williams",Excellent,4.14,71968,nonfiction,1269.6,761.76,11.04,926,HarperCollins Publishers,2916
+799,Don't Sweat the Small Stuff,Richard Carlson,Intermediate,3.95,63324,fiction,884.35,530.61,7.69,927,Random House LLC,2916
+800,Go the Fuck to Sleep,"Adam Mansbach, Ricardo CortÃ©s",Excellent,4.26,71816,fiction,113.85,68.31,0.99,930,"Amazon Digital Services,  Inc.",2916
+801,Mostly Harmless,Douglas Adams,Intermediate,3.96,72426,nonfiction,573.85,344.31,4.99,931,Simon and Schuster Digital Sales Inc,2916
+802,Benjamin Franklin: An American Life,Walter Isaacson,Intermediate,3.96,70335,fiction,573.85,344.31,4.99,933,Macmillan,2916
+803,The Tiger's Wife,TÃ©a Obreht,Novice,3.37,66104,fiction,113.85,0.0,0.99,936,"Amazon Digital Services,  Inc.",2916
+804,Poison Study,Maria V. Snyder,Excellent,4.16,96417,fiction,343.85,0.0,2.99,937,"Amazon Digital Services,  Inc.",2916
+805,Lover Unbound,J.R. Ward,Excellent,4.33,97514,fiction,910.86,546.516,7.99,938,"Amazon Digital Services,  Inc.",2916
+806,Going Postal,Terry Pratchett,Excellent,4.36,75186,fiction,1366.86,820.116,11.99,939,Penguin Group (USA) LLC,2916
+807,The Book of Mormon,"Anonymous, Joseph Smith Jr.",Excellent,4.37,63530,fiction,1366.86,820.116,11.99,941,Random House LLC,2916
+808,The Mist,Stephen King,Intermediate,3.92,82062,nonfiction,340.86,204.516,2.99,943,"Amazon Digital Services,  Inc.",2916
+809,Dead Beat,Jim Butcher,Famous,4.43,78123,fiction,568.86,0.0,4.99,944,"Amazon Digital Services,  Inc.",2916
+810,Golden Son,Pierce Brown,Famous,4.46,57614,fiction,112.86,0.0,0.99,946,"Amazon Digital Services,  Inc.",2916
+811,Night Watch,Terry Pratchett,Famous,4.47,71271,nonfiction,910.86,546.516,7.99,947,"Amazon Digital Services,  Inc.",2916
+812,The Light Fantastic,Terry Pratchett,Intermediate,3.94,75196,nonfiction,112.86,67.716,0.99,949,"Amazon Digital Services,  Inc.",2916
+813,What the Dog Saw and Other Adventures,Malcolm Gladwell,Intermediate,3.82,65277,fiction,876.66,525.996,7.69,950,Random House LLC,2916
+814,Pretty Girls,Karin Slaughter,Intermediate,3.95,60737,fiction,226.86,0.0,1.99,952,"Amazon Digital Services,  Inc.",2916
+815,Last Argument of Kings,Joe Abercrombie,Excellent,4.26,65068,fiction,568.86,341.316,4.99,952,Macmillan,2916
+816,Revival,Stephen King,Intermediate,3.75,53662,fiction,568.86,0.0,4.99,953,"Amazon Digital Services,  Inc.",2916
+817,Horton Hears a Who!,Dr. Seuss,Excellent,4.16,80883,fiction,112.86,67.716,0.99,955,"Amazon Digital Services,  Inc.",2916
+818,The Blind Side: Evolution of a Game,Michael   Lewis,Excellent,4.16,37792,children,226.86,136.116,1.99,956,HarperCollins Publishers,2889
+819,Lirael,Garth Nix,Excellent,4.29,78903,fiction,876.66,525.996,7.69,957,Penguin Group (USA) LLC,2889
+820,School's Out Forever,James Patterson,Excellent,4.16,90157,fiction,340.86,204.516,2.99,958,"Amazon Digital Services,  Inc.",2889
+821,é»’åŸ·äº‹ I [Kuroshitsuji I],"Yana Toboso, Tomo Kimura",Excellent,4.37,74378,nonfiction,1366.86,820.116,11.99,960,Penguin Group (USA) LLC,2889
+822,Winter,Marissa Meyer,Famous,4.49,100464,nonfiction,397.86,0.0,3.49,961,"Amazon Digital Services,  Inc.",2889
+823,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror ,"Robert Louis Stevenson, Robert Mighall",Intermediate,3.94,80299,fiction,568.86,341.316,4.99,963,Random House LLC,2889
+825,The Painted Man,Peter V. Brett,Excellent,4.27,64416,fiction,454.86,272.916,3.99,966,"Amazon Digital Services,  Inc.",2889
+827,One Shot,Lee Child,Excellent,4.2,63335,fiction,340.86,204.516,2.99,968,Simon and Schuster Digital Sales Inc,2889
+828,The Serpent's Shadow,Rick Riordan,Excellent,4.28,82757,fiction,345.42,0.0,3.03,968,"Amazon Digital Services,  Inc.",2889
+829,Duma Key,Stephen King,Intermediate,3.93,73807,fiction,844.74,506.844,7.41,969,Macmillan,2889
+830,The Shifting Fog,Kate Morton,Intermediate,3.93,69948,fiction,228.0,0.0,2.0,970,"Amazon Digital Services,  Inc.",2889
+832,Proven Guilty,Jim Butcher,Famous,4.41,75133,fiction,778.62,467.172,6.83,971,Simon and Schuster Digital Sales Inc,2889
+833,Ð—Ð°Ð¿Ð¸ÑÐºÐ¸ Ð¸Ð· Ð¿Ð¾Ð´Ð¿Ð¾Ð»ÑŒÑ,"Fyodor Dostoyevsky, Andrew R. MacAndrew, Ben Marcus",Excellent,4.17,65900,fiction,910.86,546.516,7.99,971,Random House LLC,2889
+834,The Heart is a Lonely Hunter,Carson McCullers,Intermediate,3.97,67643,fiction,454.86,0.0,3.99,972,"Amazon Digital Services,  Inc.",2889
+835,The Infinite Sea,Rick Yancey,Intermediate,3.94,78314,fiction,454.86,0.0,3.99,973,"Amazon Digital Services,  Inc.",2889
+836,The Once and Future King,T.H. White,Excellent,4.08,76911,nonfiction,746.7,448.02,6.55,973,Macmillan,2889
+837,Small Gods,Terry Pratchett,Excellent,4.27,72588,fiction,1220.4,732.24,10.8,977,HarperCollins Publishers,2889
+838,"Bud, Not Buddy",Christopher Paul Curtis,Intermediate,3.89,73000,fiction,431.66,258.996,3.82,980,"Amazon Digital Services,  Inc.",2889
+840,Predictably Irrational: The Hidden Forces that Shape Our Decisions,Dan Ariely,Excellent,4.1,61496,fiction,563.87,0.0,4.99,982,"Amazon Digital Services,  Inc.",2889
+841,Ø§Ù„ÙÙŠÙ„ Ø§Ù„Ø£Ø²Ø±Ù‚,Ø£Ø­Ù…Ø¯ Ù…Ø±Ø§Ø¯,Intermediate,3.8,53187,nonfiction,1128.87,677.322,9.99,984,"Amazon Digital Services,  Inc.",2889
+842,The Indian in the Cupboard,Lynne Reid Banks,Intermediate,3.89,77046,fiction,450.87,0.0,3.99,985,"Amazon Digital Services,  Inc.",2889
+843,A Memory of Light,"Robert Jordan, Brandon Sanderson",Famous,4.5,68410,fiction,450.87,0.0,3.99,986,"Amazon Digital Services,  Inc.",2889
+844,Me and Earl and the Dying Girl,Jesse Andrews,Intermediate,3.58,82270,nonfiction,1241.87,745.122,10.99,988,Random House LLC,2889
+845,The Ugly Truth,Jeff Kinney,Excellent,4.16,68701,nonfiction,111.87,67.122,0.99,990,"Amazon Digital Services,  Inc.",2889
+847,"The Surgeon of Crowthorne: a tale of murder, madness & the love of words",Simon Winchester,Intermediate,3.84,71411,fiction,450.87,270.522,3.99,993,Simon and Schuster Digital Sales Inc,2862
+848,2nd Chance,"James Patterson, Andrew Gross",Excellent,4.01,68834,fiction,1388.77,833.262,12.29,993,HarperCollins Publishers,2862
+849,The Complete Maus,Art Spiegelman,Famous,4.53,76785,nonfiction,111.87,67.122,0.99,994,"Amazon Digital Services,  Inc.",2862
+850,The Eyre Affair,Jasper Fforde,Intermediate,3.92,85683,nonfiction,111.87,67.122,0.99,995,"Amazon Digital Services,  Inc.",2862
+851,Anne Rice's The Vampire Lestat: The Graphic Novel,"Faye Perozich, Anne Rice, John Bolton, Daerick GrÃ¶ss",Excellent,4.17,61842,fiction,111.87,0.0,0.99,996,"Amazon Digital Services,  Inc.",2862
+853,The Art of Happiness: A Handbook for Living,"Dalai Lama XIV, Howard C. Cutler",Excellent,4.14,61498,nonfiction,1327.75,796.65,11.75,1000,Random House LLC,2862
+854,The Bone Clocks,David Mitchell,Intermediate,3.81,53151,fiction,781.96,469.176,6.92,1001,Random House LLC,2862
+855,Black and Blue,Anna Quindlen,Intermediate,3.86,67753,fiction,450.87,270.522,3.99,1001,"Amazon Digital Services,  Inc.",2862
+857,The Last Juror,John Grisham,Intermediate,3.85,63114,nonfiction,970.67,582.402,8.59,1005,Penguin Group (USA) LLC,2862
+858,Diary,Chuck Palahniuk,Intermediate,3.6,58428,fiction,1015.87,609.522,8.99,1006,Hachette Book Group,2862
+859,Eleven on Top,Janet Evanovich,Excellent,4.15,84363,fiction,846.37,507.822,7.49,1006,Penguin Group (USA) LLC,2862
+860,Tintenblut,"Cornelia Funke, Anthea Bell",Intermediate,3.91,82291,fiction,789.87,473.922,6.99,1007,"Amazon Digital Services,  Inc.",2862
+861,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto",Chuck Klosterman,Intermediate,3.75,56548,fiction,111.87,67.122,0.99,1007,"Amazon Digital Services,  Inc.",2862
+862,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder,Evelyn Waugh,Intermediate,3.99,69087,nonfiction,224.87,134.922,1.99,1008,"Amazon Digital Services,  Inc.",2862
+863,White Night,Jim Butcher,Famous,4.41,73534,fiction,111.87,67.122,0.99,1009,"Amazon Digital Services,  Inc.",2862
+864,The Miniaturist,Jessie Burton,Intermediate,3.58,56344,fiction,224.87,134.922,1.99,1010,HarperCollins Publishers,2862
+865,Dragons of Autumn Twilight,"Margaret Weis, Tracy Hickman",Excellent,4.03,76219,nonfiction,992.14,595.284,8.78,1011,Simon and Schuster Digital Sales Inc,2862
+866,The Lost Colony,Eoin Colfer,Excellent,4.01,103844,nonfiction,282.5,169.5,2.5,1012,"Amazon Digital Services,  Inc.",2862
+867,Extras,Scott Westerfeld,Intermediate,3.59,85873,fiction,110.88,66.528,0.99,1013,"Amazon Digital Services,  Inc.",2862
+868,The Burning Bridge,John Flanagan,Excellent,4.28,74156,nonfiction,838.88,503.328,7.49,1015,Macmillan,2862
+869,The Book of Life,Deborah Harkness,Excellent,4.15,63027,fiction,334.88,0.0,2.99,1019,"Amazon Digital Services,  Inc.",2862
+870,The Artist's Way: A Spiritual Path to Higher Creativity,Julia Cameron,Intermediate,3.89,66049,fiction,670.88,0.0,5.99,1020,"Amazon Digital Services,  Inc.",4480
+871,The Stinky Cheese Man and Other Fairly Stupid Tales,"Jon Scieszka, Lane Smith",Excellent,4.2,78487,nonfiction,334.88,200.928,2.99,1020,"Amazon Digital Services,  Inc.",4480
+872,Horns,Joe Hill,Intermediate,3.92,66287,nonfiction,334.88,200.928,2.99,1022,Hachette Book Group,4480
+873,Catherine the Great: Portrait of a Woman,Robert K. Massie,Intermediate,3.91,66591,fiction,110.88,0.0,0.99,1023,"Amazon Digital Services,  Inc.",4480
+874,The Year of the Flood,Margaret Atwood,Excellent,4.05,68597,fiction,894.88,536.928,7.99,1024,Simon and Schuster Digital Sales Inc,4480
+875,Winter Garden,Kristin Hannah,Excellent,4.13,66577,fiction,334.88,0.0,2.99,1027,"Amazon Digital Services,  Inc.",4480
+876,The King of Torts,John Grisham,Intermediate,3.67,61835,nonfiction,670.88,402.528,5.99,1027,HarperCollins Publishers,4480
+877,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,"Marcus Luttrell, Patrick Robinson",Excellent,4.34,46551,fiction,446.88,0.0,3.99,1030,"Amazon Digital Services,  Inc.",4440
+878,The 3 Mistakes of My Life,Chetan Bhagat,Intermediate,2.97,53331,fiction,894.88,536.928,7.99,1032,Random House LLC,4440
+879,The Murder of Roger Ackroyd,Agatha Christie,Excellent,4.2,71354,nonfiction,842.24,505.344,7.52,1032,"Amazon Digital Services,  Inc.",4440
+880,Native Son ,Richard Wright,Intermediate,3.96,66194,fiction,334.88,0.0,2.99,1033,"Amazon Digital Services,  Inc.",4440
+881,Shadow's Edge,Brent Weeks,Excellent,4.27,66390,fiction,1326.08,795.648,11.84,1033,Random House LLC,4440
+882,Under the Never Sky,Veronica Rossi,Excellent,4.01,74029,fiction,446.88,0.0,3.99,1034,"Amazon Digital Services,  Inc.",4440
+883,True Believer,Nicholas Sparks,Intermediate,3.8,62840,fiction,558.88,0.0,4.99,1035,"Amazon Digital Services,  Inc.",4440
+884,The Lean Startupâ€Ž,Eric Ries,Excellent,4.04,86284,fiction,110.88,66.528,0.99,1036,"Amazon Digital Services,  Inc.",4440
+885,The Golden Lily,Richelle Mead,Excellent,4.36,86929,fiction,1230.88,738.528,10.99,1037,Penguin Group (USA) LLC,4440
+886,Chasing Harry Winston,Lauren Weisberger,Novice,3.32,63342,fiction,558.88,335.328,4.99,1042,Random House LLC,4440
+889,The Rise and Fall of the Third Reich: A History of Nazi Germany,William L. Shirer,Excellent,4.15,64391,fiction,334.88,200.928,2.99,1044,HarperCollins Publishers,4440
+890,A Long Way Down,Nick Hornby,Novice,3.41,59843,nonfiction,446.88,268.128,3.99,1046,Hachette Book Group,4440
+891,Out from Boneville,"Jeff Smith, Steve Hamaker",Excellent,4.16,62330,fiction,670.88,0.0,5.99,1048,"Amazon Digital Services,  Inc.",4400
+892,Rose Madder,Stephen King,Intermediate,3.66,70921,fiction,222.88,133.728,1.99,1049,Simon and Schuster Digital Sales Inc,4400
+893,"Die Trying (Jack Reacher, #2)",Lee Child,Intermediate,4.0,62128,fiction,334.88,200.928,2.99,1050,Macmillan,4400
+894,Beautiful Chaos,"Kami Garcia, Margaret Stohl, Paz Pruneda",Intermediate,3.95,69709,fiction,222.88,133.728,1.99,1050,Hachette Book Group,4400
+896,Heart-Shaped Box,Joe Hill,Intermediate,3.82,65005,fiction,331.89,0.0,2.99,1052,"Amazon Digital Services,  Inc.",4400
+897,Cabin Fever,Jeff Kinney,Excellent,4.21,63347,nonfiction,1330.89,798.534,11.99,1053,Penguin Group (USA) LLC,4400
+899,Everyone Worth Knowing,Lauren Weisberger,Novice,3.39,59932,fiction,109.89,0.0,0.99,1055,"Amazon Digital Services,  Inc.",4400
+900,Redwall,Brian Jacques,Excellent,4.11,73918,fiction,331.89,0.0,2.99,1056,"Amazon Digital Services,  Inc.",4400
+901,Manifest der Kommunistischen Partei,"Karl Marx, Friedrich Engels, Gareth Stedman Jones",Intermediate,3.51,56464,fiction,331.89,0.0,2.99,1057,"Amazon Digital Services,  Inc.",4400
+902,The Woman in Cabin 10,Ruth Ware,Intermediate,3.67,90541,nonfiction,109.89,65.934,0.99,1058,"Amazon Digital Services,  Inc.",4400
+903,The Last of the Mohicans: A Narrative of 1757,James Fenimore Cooper,Intermediate,3.69,67632,fiction,109.89,0.0,0.99,1058,"Amazon Digital Services,  Inc.",4400
+904,Sophie's Choice,William Styron,Excellent,4.18,66923,nonfiction,220.89,132.534,1.99,1059,"Amazon Digital Services,  Inc.",4400
+905,Shopaholic and Sister,Sophie Kinsella,Intermediate,3.64,69007,fiction,331.89,0.0,2.99,1059,"Amazon Digital Services,  Inc.",4400
+906,The Iron Daughter,Julie Kagawa,Excellent,4.13,93340,fiction,331.89,0.0,2.99,1060,"Amazon Digital Services,  Inc.",4400
+907,The Prayer of Jabez:  Breaking Through to the Blessed Life,Bruce H. Wilkinson,Intermediate,3.92,57468,nonfiction,899.1,539.46,8.1,1061,"Amazon Digital Services,  Inc.",4400
+908,The Age of Miracles,Karen Thompson Walker,Intermediate,3.64,61296,fiction,1314.24,788.544,11.84,1062,Random House LLC,4400
+909,Have a Little Faith: A True Story,Mitch Albom,Excellent,4.16,60002,nonfiction,220.89,132.534,1.99,1066,Hachette Book Group,4400
+910,My Life in France,"Julia Child, Alex Prud'Homme",Excellent,4.16,63100,fiction,1330.89,798.534,11.99,1066,Penguin Group (USA) LLC,4400
+911,The Rosie Effect,Graeme Simsion,Intermediate,3.56,27308,fiction,1225.44,735.264,11.04,1068,Macmillan,4360
+912,The Secret of the Nagas.,Amish Tripathi,Intermediate,3.98,50158,fiction,109.89,65.934,0.99,1069,"Amazon Digital Services,  Inc.",4360
+914,Flipped,Wendelin Van Draanen,Intermediate,3.94,79264,nonfiction,109.89,0.0,0.99,1072,"Amazon Digital Services,  Inc.",4360
+917,Relic,"Douglas Preston, Lincoln Child",Excellent,4.01,68011,fiction,858.03,514.818,7.73,1075,Hachette Book Group,4360
+918,Notes from a Small Island,Bill Bryson,Intermediate,3.91,66947,fiction,442.89,0.0,3.99,1076,"Amazon Digital Services,  Inc.",4360
+919,Small Favor,Jim Butcher,Famous,4.43,70029,nonfiction,1219.89,731.934,10.99,1077,Random House LLC,4360
+920,The Walking Dead Compendium Volume 1,Robert Kirkman,Famous,4.43,57764,fiction,331.89,0.0,2.99,1078,"Amazon Digital Services,  Inc.",4360
+921,Princess Academy,Shannon Hale,Excellent,4.01,82470,fiction,1414.14,848.484,12.74,1080,Simon and Schuster Digital Sales Inc,4360
+922,"Everything, Everything","Nicola Yoon, David Yoon",Excellent,4.11,132552,fiction,331.89,0.0,2.99,1081,"Amazon Digital Services,  Inc.",4360
+923,Pygmalion,George Bernard Shaw,Intermediate,3.9,70079,fiction,331.89,0.0,2.99,1082,"Amazon Digital Services,  Inc.",4360
+924,Flight Behavior,Barbara Kingsolver,Intermediate,3.75,57078,fiction,109.89,65.934,0.99,1085,"Amazon Digital Services,  Inc.",4360
+925,Grip of the Shadow Plague,Brandon Mull,Excellent,4.26,65638,fiction,548.9,0.0,4.99,1089,"Amazon Digital Services,  Inc.",4360
+926,Bridget Jones: The Edge of Reason,Helen Fielding,Intermediate,3.53,73093,nonfiction,1098.9,659.34,9.99,1090,"Amazon Digital Services,  Inc.",4360
+927,Captain Corelli's Mandolin,Louis de BerniÃ¨res,Intermediate,3.95,57583,fiction,108.9,65.34,0.99,1091,"Amazon Digital Services,  Inc.",4360
+928,At First Sight,Nicholas Sparks,Intermediate,3.81,62219,fiction,108.9,65.34,0.99,1091,"Amazon Digital Services,  Inc.",4320
+929,Down Under,Bill Bryson,Excellent,4.05,58688,fiction,438.9,0.0,3.99,1093,"Amazon Digital Services,  Inc.",4320
+930,The Memoirs of Sherlock Holmes,Arthur Conan Doyle,Excellent,4.32,56918,nonfiction,1230.9,738.54,11.19,1095,HarperCollins Publishers,4320
+931,The Orphan Master's Son,Adam Johnson,Excellent,4.06,52765,fiction,108.9,65.34,0.99,1097,Macmillan,4320
+932,Enchanters' End Game,David Eddings,Excellent,4.17,69134,fiction,438.9,0.0,3.99,1098,"Amazon Digital Services,  Inc.",4320
+933,Persepolis,"Marjane Satrapi, Mattias Ripa, Blake Ferris, Anjali Singh",Excellent,4.36,71353,nonfiction,108.9,0.0,0.99,1099,"Amazon Digital Services,  Inc.",4320
+934,The Chosen,Chaim Potok,Excellent,4.03,70701,fiction,218.9,131.34,1.99,1099,"Amazon Digital Services,  Inc.",4320
+935,The Agony and the Ecstasy: A Biographical Novel of Michelangelo,"Irving Stone, ×©×ž×•××œ ×©× ×™×¦×¨",Excellent,4.09,61256,fiction,438.9,0.0,3.99,1100,"Amazon Digital Services,  Inc.",4320
+936,El juego del Ã¡ngel,"Carlos Ruiz ZafÃ³n, Lucia Graves",Intermediate,3.86,46225,fiction,1351.9,811.14,12.29,1101,HarperCollins Publishers,4320
+937,Where Rainbows End,Cecelia Ahern,Intermediate,3.95,55236,nonfiction,1208.9,725.34,10.99,1101,Random House LLC,4320
+938,Amelia Bedelia,"Peggy Parish, Fritz Siebel",Excellent,4.15,72329,fiction,878.9,527.34,7.99,1102,Penguin Group (USA) LLC,4320
+939,This Man,Jodi Ellen Malpas,Excellent,4.13,79461,fiction,108.9,65.34,0.99,1102,"Amazon Digital Services,  Inc.",4320
+940,A Dog's Purpose ,W. Bruce Cameron,Excellent,4.35,65091,fiction,328.9,0.0,2.99,1105,"Amazon Digital Services,  Inc.",4320
+941,An Ember in the Ashes,Sabaa Tahir,Excellent,4.32,45492,fiction,603.9,362.34,5.49,1106,HarperCollins Publishers,4320
+942,"Lover Enshrined, part one",J.R. Ward,Excellent,4.12,87432,fiction,988.9,593.34,8.99,1106,Random House LLC,4320
+943,The Golem and the Jinni,Helene Wecker,Excellent,4.1,59650,fiction,438.9,0.0,3.99,1107,"Amazon Digital Services,  Inc.",4320
+944,Ø§Ù„Ø£Ø³ÙˆØ¯ ÙŠÙ„ÙŠÙ‚ Ø¨Ùƒ,"Ø£Ø­Ù„Ø§Ù… Ù…Ø³ØªØºØ§Ù†Ù…ÙŠ, Ahlam Mosteghanemi",Intermediate,3.72,42958,nonfiction,1200.1,720.06,10.91,1107,Simon and Schuster Digital Sales Inc,4320
+945,The Slippery Slope,"Lemony Snicket, Brett Helquist",Intermediate,4.0,81362,fiction,988.9,593.34,8.99,1111,Penguin Group (USA) LLC,4320
+946,Bleak House,"Charles Dickens, Nicola Bradbury, Hablot Knight Browne",Intermediate,4.0,67433,fiction,988.9,593.34,8.99,1112,HarperCollins Publishers,4320
+947,"Caps for sale: a tale of a peddler, some monkeys and their monkey business",Esphyr Slobodkina,Excellent,4.12,72504,fiction,548.9,329.34,4.99,1118,"Amazon Digital Services,  Inc.",4280
+948,Furies of Calderon ,Jim Butcher,Excellent,4.12,70269,fiction,108.9,0.0,0.99,1119,"Amazon Digital Services,  Inc.",4280
+949,Alanna: The First Adventure,Tamora Pierce,Excellent,4.27,85699,fiction,1867.8,1120.68,16.98,1119,Penguin Group (USA) LLC,4280
+950,Her Fearful Symmetry,Audrey Niffenegger,Novice,3.23,63737,nonfiction,416.9,250.14,3.79,1120,HarperCollins Publishers,4280
+951,The Boston Girl,Anita Diamant,Intermediate,3.79,51603,fiction,548.9,0.0,4.99,1120,"Amazon Digital Services,  Inc.",4280
+952,"Lover Enshrined, part two",J.R. Ward,Excellent,4.38,84650,children,493.9,296.34,4.49,1123,Macmillan,4280
+953,The Fall of Hyperion,Dan Simmons,Excellent,4.18,63235,nonfiction,641.3,384.78,5.83,1124,Simon and Schuster Digital Sales Inc,4280
+954,The Black Dahlia,James Ellroy,Intermediate,3.75,61412,fiction,1088.91,653.346,9.99,1127,Random House LLC,4280
+955,"Through the Looking-Glass, and What Alice Found There","Lewis Carroll, John Tenniel, Peter Glassman",Excellent,4.06,63050,fiction,216.91,130.146,1.99,1128,Simon and Schuster Digital Sales Inc,4280
+956,Wild Swans: Three Daughters of China,Jung Chang,Excellent,4.23,60193,nonfiction,434.91,260.946,3.99,1129,HarperCollins Christian Publishing,4280
+957,"Go, Dog. Go!",P.D. Eastman,Excellent,4.08,66360,fiction,1160.85,696.51,10.65,1130,Penguin Group (USA) LLC,4280
+959,Finders Keepers,Stephen King,Excellent,4.03,36541,fiction,107.91,0.0,0.99,1131,"Amazon Digital Services,  Inc.",4280
+960,The Strain,"Guillermo del Toro, Chuck Hogan",Intermediate,3.77,58631,fiction,107.91,64.746,0.99,1132,"Amazon Digital Services,  Inc.",4280
+961,The Complete Poems of Emily Dickinson,"Emily Dickinson, Thomas H. Johnson",Excellent,4.21,60278,fiction,543.91,0.0,4.99,1132,"Amazon Digital Services,  Inc.",4280
+962,Old Yeller,Fred Gipson,Excellent,4.06,69815,fiction,1502.02,901.212,13.78,1136,Macmillan,4280
+963,Born Standing Up: A Comic's Life,Steve Martin,Intermediate,3.87,60869,nonfiction,107.91,64.746,0.99,1137,"Amazon Digital Services,  Inc.",4280
+965,A Storm of Swords: Part 2 Blood and Gold,George R.R. Martin,Famous,4.56,54977,fiction,325.91,0.0,2.99,1140,"Amazon Digital Services,  Inc.",4280
+967,Hearts in Atlantis,Stephen King,Intermediate,3.8,65063,fiction,216.91,130.146,1.99,1142,Macmillan,4240
+969,ç¾Šã‚’ã‚ãã‚‹å†’é™º [HitsujiwomegurubÅken],"Haruki Murakami, Alfred Birnbaum",Intermediate,3.94,55262,nonfiction,960.29,576.174,8.81,1147,Simon and Schuster Digital Sales Inc,4240
+970,The Queen's Fool,Philippa Gregory,Intermediate,3.83,69504,fiction,598.41,359.046,5.49,1148,Simon and Schuster Digital Sales Inc,4240
+971,Days of Blood & Starlight,Laini Taylor,Excellent,4.21,85746,fiction,325.91,195.546,2.99,1148,"Amazon Digital Services,  Inc.",4240
+972,Jitterbug Perfume,Tom Robbins,Excellent,4.24,48277,fiction,325.91,0.0,2.99,1148,"Amazon Digital Services,  Inc.",4240
+973,"The Battle for Skandia (Ranger's Apprentice, #4)",John Flanagan,Excellent,4.32,60959,fiction,325.91,195.546,2.99,1149,"Amazon Digital Services,  Inc.",4240
+974,The Darkest Minds,Alexandra Bracken,Excellent,4.26,83886,fiction,620.21,372.126,5.69,1150,Hachette Book Group,4240
+975,O Zahir,"Paulo Coelho, Margaret Jull Costa",Intermediate,3.56,50921,fiction,434.91,0.0,3.99,1151,"Amazon Digital Services,  Inc.",4240
+976,The Power of Positive Thinking,Norman Vincent Peale,Excellent,4.08,52704,fiction,325.91,0.0,2.99,1152,"Amazon Digital Services,  Inc.",4240
+977,"In a Dark, Dark Wood ",Ruth Ware,Intermediate,3.65,67344,fiction,107.91,0.0,0.99,1153,"Amazon Digital Services,  Inc.",4240
+978,The House of Mirth,"Edith Wharton, Nina Bawden",Intermediate,3.94,60611,fiction,325.91,0.0,2.99,1154,"Amazon Digital Services,  Inc.",4240
+979,Fairy Tail 1,"Hiro Mashima, William Flanagan",Famous,4.4,65477,fiction,434.91,0.0,3.99,1155,"Amazon Digital Services,  Inc.",4240
+980,The Slow Regard of Silent Things,"Patrick Rothfuss, Nate  Taylor",Intermediate,3.92,57716,fiction,434.91,0.0,3.99,1156,"Amazon Digital Services,  Inc.",4240
+981,Twelve Years a Slave,Solomon Northup,Excellent,4.15,39758,fiction,543.91,326.346,4.99,1156,Random House LLC,4240
+982,"Lover Avenged, part one",J.R. Ward,Famous,4.41,82824,fiction,543.91,0.0,4.99,1160,"Amazon Digital Services,  Inc.",109
+983,In the Heart of the Sea: The Tragedy of the Whaleship Essex,Nathaniel Philbrick,Excellent,4.16,57259,fiction,107.91,0.0,0.99,1160,"Amazon Digital Services,  Inc.",109
+984,Infidel,Ayaan Hirsi Ali,Excellent,4.2,58432,fiction,107.91,0.0,0.99,1161,"Amazon Digital Services,  Inc.",109
+985,The Black Swan: The Impact of the Highly Improbable,Nassim Nicholas Taleb,Intermediate,3.88,53586,fiction,761.91,0.0,6.99,1161,"Amazon Digital Services,  Inc.",109
+986,The Twelve,Justin Cronin,Intermediate,3.98,56756,fiction,538.92,0.0,4.99,1164,"Amazon Digital Services,  Inc.",108
+987,ÐžÐ´Ð¸Ð½ Ð´ÐµÐ½ÑŒ Ð˜Ð²Ð°Ð½Ð° Ð”ÐµÐ½Ð¸ÑÐ¾Ð²Ð¸Ñ‡Ð°,"Aleksandr Solzhenitsyn, H.T. Willetts",Intermediate,3.94,61678,fiction,646.92,388.152,5.99,1166,Hachette Book Group,108
+988,The Diamond Age,Neal Stephenson,Excellent,4.19,61836,fiction,970.92,582.552,8.99,1167,Macmillan,108
+989,A Canticle for Leibowitz,Walter M. Miller Jr.,Intermediate,3.97,66721,fiction,106.92,0.0,0.99,1167,"Amazon Digital Services,  Inc.",108
+990,á¼ˆÎ½Ï„Î¹Î³ÏŒÎ½Î·,"Sophocles, J.E. Thomas",Intermediate,3.6,67608,fiction,106.92,64.152,0.99,1167,"Amazon Digital Services,  Inc.",108
+991,Brooklyn,Colm TÃ³ibÃ­n,Intermediate,3.63,55459,fiction,1659.96,995.976,15.37,1168,"Amazon Digital Services,  Inc.",108
+992,Wither,Lauren DeStefano,Intermediate,3.81,84776,fiction,412.56,0.0,3.82,1169,"Amazon Digital Services,  Inc.",108
+993,Hillbilly Elegy. A Memoir of a Family and Culture in Crisis,J.D. Vance,Intermediate,3.99,80737,fiction,430.92,0.0,3.99,1169,"Amazon Digital Services,  Inc.",108
+994,Crossroads of Twilight,Robert Jordan,Intermediate,3.82,61361,fiction,430.92,0.0,3.99,1170,"Amazon Digital Services,  Inc.",108
+995,The Red Badge of Courage,Stephen Crane,Novice,3.21,68448,fiction,1186.92,712.152,10.99,1173,Penguin Group (USA) LLC,108
+996,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Randall Munroe,Excellent,4.17,60236,fiction,1150.2,690.12,10.65,1174,Penguin Group (USA) LLC,108
+997,Gardens of the Moon,Steven Erikson,Intermediate,3.85,57993,fiction,430.92,0.0,3.99,1175,"Amazon Digital Services,  Inc.",108
+998,A Bruxa de Portobello,Paulo Coelho,Intermediate,3.51,51461,fiction,1327.32,796.392,12.29,1179,HarperCollins Publishers,108
+999,A Swiftly Tilting Planet,Madeleine L'Engle,Excellent,4.13,75851,fiction,322.92,0.0,2.99,1182,"Amazon Digital Services,  Inc.",108
+1000,Gregor the Overlander,Suzanne Collins,Intermediate,3.99,66823,fiction,322.92,0.0,2.99,1183,"Amazon Digital Services,  Inc.",108
+1001,Sing You Home,Jodi Picoult,Intermediate,3.76,62494,fiction,516.24,309.744,4.78,1184,"Amazon Digital Services,  Inc.",108
+1002,The Tale of the Body Thief,Anne Rice,Intermediate,3.7,67267,fiction,214.92,128.952,1.99,1186,HarperCollins Publishers,108
+1003,The Camel Club,David Baldacci,Excellent,4.02,58973,nonfiction,139.32,83.592,1.29,1187,"Amazon Digital Services,  Inc.",108
+1004,Saving The World and Other Extreme Sports,James Patterson,Excellent,4.16,75436,fiction,748.44,449.064,6.93,1190,Hachette Book Group,108
+1005,Blood of the Fold,Terry Goodkind,Intermediate,3.98,60624,fiction,106.92,64.152,0.99,1192,"Amazon Digital Services,  Inc.",108
+1006,The Boleyn Inheritance,Philippa Gregory,Intermediate,3.84,62135,fiction,646.92,388.152,5.99,1193,Hachette Book Group,108
+1007,A Spool of Blue Thread,Anne Tyler,Novice,3.4,42339,fiction,1186.92,712.152,10.99,1194,Penguin Group (USA) LLC,108
+1008,The Underground Railroad,Colson Whitehead,Excellent,4.04,72052,fiction,538.92,0.0,4.99,1195,"Amazon Digital Services,  Inc.",108
+1009,Masquerade,Melissa de la Cruz,Intermediate,3.91,76598,fiction,106.92,64.152,0.99,1196,"Amazon Digital Services,  Inc.",108
+1010,The Iron Queen,Julie Kagawa,Excellent,4.24,82373,nonfiction,430.92,0.0,3.99,1196,"Amazon Digital Services,  Inc.",108
+1011,Losing It,Cora Carmack,Intermediate,3.77,84438,fiction,538.92,323.352,4.99,1197,HarperCollins Publishers,108
+1013,Disgrace,J.M. Coetzee,Intermediate,3.83,50422,fiction,1078.92,647.352,9.99,1198,Random House LLC,108
+1014,The House at Pooh Corner,"A.A. Milne, Ernest H. Shepard",Excellent,4.36,69102,fiction,214.92,0.0,1.99,1199,"Amazon Digital Services,  Inc.",108
+1015,The Black Prism,Brent Weeks,Excellent,4.24,58906,fiction,430.92,0.0,3.99,1199,"Amazon Digital Services,  Inc.",108
+1016,The Mermaid Chair,Sue Monk Kidd,Novice,3.1,62760,fiction,322.92,0.0,2.99,1199,"Amazon Digital Services,  Inc.",108
+1017,Frog and Toad Are Friends,Arnold Lobel,Excellent,4.18,70119,nonfiction,322.92,193.752,2.99,1200,HarperCollins Publishers,108
+1018,The Carnivorous Carnival,"Lemony Snicket, Brett Helquist",Intermediate,3.97,83981,fiction,105.93,0.0,0.99,1201,"Amazon Digital Services,  Inc.",107
+1019,Heist Society,Ally Carter,Intermediate,3.91,75834,fiction,854.93,512.958,7.99,1201,Random House LLC,107
+1020,Behind Closed Doors,B.A. Paris,Intermediate,3.93,57865,fiction,919.13,551.478,8.59,1201,Penguin Group (USA) LLC,107
+1021,The Killer Angels,Michael Shaara,Excellent,4.3,58372,nonfiction,105.93,63.558,0.99,1203,"Amazon Digital Services,  Inc.",107
+1022,"Circus of the Damned (Anita Blake, Vampire Hunter, #3)",Laurell K. Hamilton,Excellent,4.16,73883,fiction,426.93,256.158,3.99,1206,Penguin Group (USA) LLC,107
+1023,Ptolemy's Gate,Jonathan Stroud,Excellent,4.24,63838,fiction,1272.23,763.338,11.89,1207,HarperCollins Publishers,107
+1024,The Island of Dr. Moreau,H.G. Wells,Intermediate,3.72,60346,fiction,640.93,0.0,5.99,1212,"Amazon Digital Services,  Inc.",107
+1027,Out of My Mind,Sharon M. Draper,Excellent,4.37,63756,nonfiction,319.93,0.0,2.99,1215,"Amazon Digital Services,  Inc.",107
+1028,Rapture,Lauren Kate,Excellent,4.03,79360,nonfiction,1282.93,769.758,11.99,1216,Random House LLC,107
+1029,Switched,Amanda Hocking,Intermediate,3.89,45319,fiction,640.93,384.558,5.99,1217,Macmillan,107
+1030,Ð”Ð¾ÐºÑ‚Ð¾Ñ€ Ð–Ð¸Ð²Ð°Ð³Ð¾,"Boris Pasternak, Max Hayward, Manya Harari, John Bayley",Excellent,4.03,59973,fiction,854.93,512.958,7.99,1217,HarperCollins Publishers,107
+1034,Death Comes to Pemberley,P.D. James,Novice,3.21,65906,fiction,426.93,256.158,3.99,1220,"Amazon Digital Services,  Inc.",107
+1035,Ethan Frome,Edith Wharton,Novice,3.35,72421,nonfiction,405.53,243.318,3.79,1222,HarperCollins Publishers,107
+1036,A Map of the World,"Jane Hamilton, Frank  Muller, C.J. Critt",Intermediate,3.78,61347,fiction,324.21,194.526,3.03,1223,"Amazon Digital Services,  Inc.",107
+1037,It Ends with Us,Colleen Hoover,Famous,4.44,80433,fiction,747.93,448.758,6.99,1223,Penguin Group (USA) LLC,107
+1038,The Gift of the Magi,"O. Henry, Lisbeth Zwerger",Excellent,4.07,66537,nonfiction,951.23,570.738,8.89,1224,Simon and Schuster Digital Sales Inc,107
+1039,The Electric Kool-Aid Acid Test,Tom Wolfe,Intermediate,3.92,54848,fiction,319.93,0.0,2.99,1225,"Amazon Digital Services,  Inc.",107
+1040,The Naked Lunch,"William S. Burroughs, James Grauerholz, Barry  Miles",Novice,3.46,55473,fiction,529.65,317.79,4.95,1226,"Amazon Digital Services,  Inc.",107
+1041,The Sandman: Dream Country,"Neil Gaiman, Kelley Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Erickson",Excellent,4.28,67753,fiction,426.93,0.0,3.99,1230,"Amazon Digital Services,  Inc.",107
+1042,A Painted House,John Grisham,Intermediate,3.67,59974,nonfiction,105.93,0.0,0.99,1232,"Amazon Digital Services,  Inc.",107
+1043,The Left Hand of Darkness,"Ursula K. Le Guin, Lech JÄ™czmyk",Excellent,4.05,61888,fiction,822.83,493.698,7.69,1233,Random House LLC,107
+1044,Let It Snow: Three Holiday Romances,"John Green, Maureen Johnson, Lauren Myracle",Intermediate,3.84,57632,fiction,1149.18,689.508,10.74,1235,Penguin Group (USA) LLC,107
+1045,"Full Dark, No Stars",Stephen King,Excellent,4.03,60672,fiction,640.93,384.558,5.99,1236,Random House LLC,107
+1046,Being Mortal: Medicine and What Matters in the End,Atul Gawande,Famous,4.4,56510,fiction,319.93,0.0,2.99,1237,"Amazon Digital Services,  Inc.",107
+1047,Intensity,Dean Koontz,Excellent,4.04,58062,fiction,104.94,0.0,0.99,1238,"Amazon Digital Services,  Inc.",106
+1048,Chelsea Chelsea Bang Bang,Chelsea Handler,Intermediate,3.81,55355,children,477.0,286.2,4.5,1241,"Amazon Digital Services,  Inc.",106
+1049,Et dukkehjem,"Henrik Ibsen, Michael   Meyer",Intermediate,3.69,69450,fiction,1588.94,953.364,14.99,1243,Hachette Book Group,106
+1050,Hawaii,James A. Michener,Excellent,4.18,59963,fiction,212.0,0.0,2.0,1243,"Amazon Digital Services,  Inc.",106
+1051,Revolutionary Road,Richard Yates,Intermediate,3.89,56550,fiction,735.64,441.384,6.94,1244,Penguin Group (USA) LLC,106
+1052,Nick & Norah's Infinite Playlist,"Rachel Cohn, David Levithan",Intermediate,3.73,60372,fiction,846.94,508.164,7.99,1247,Random House LLC,106
+1053,Rosencrantz and Guildenstern are Dead,"Tom Stoppard, Henry Popkin",Excellent,4.06,67077,nonfiction,1334.54,800.724,12.59,1248,Random House LLC,106
+1054,Forever,Maggie Stiefvater,Intermediate,3.91,85034,fiction,827.86,496.716,7.81,1249,Penguin Group (USA) LLC,106
+1055,The Beach,Alex Garland,Intermediate,3.91,52333,fiction,589.36,353.616,5.56,1251,Hachette Book Group,106
+1056,Saving CeeCee Honeycutt,"Beth Hoffman, Jenna Lamia",Intermediate,3.92,54341,fiction,316.94,0.0,2.99,1253,"Amazon Digital Services,  Inc.",106
+1057,Deadlocked,Charlaine Harris,Intermediate,3.65,65932,nonfiction,1058.94,635.364,9.99,1255,"Amazon Digital Services,  Inc.",106
+1058,Everything's Eventual: 14 Dark Tales,Stephen King,Intermediate,3.94,60932,fiction,316.94,190.164,2.99,1255,"Amazon Digital Services,  Inc.",106
+1061,Airframe,Michael Crichton,Intermediate,3.66,59229,fiction,104.94,0.0,0.99,1263,"Amazon Digital Services,  Inc.",106
+1062,Magician,Raymond E. Feist,Excellent,4.17,62432,fiction,815.14,489.084,7.69,1265,Random House LLC,106
+1063,Bet Me,Jennifer Crusie,Intermediate,3.95,70737,fiction,846.94,508.164,7.99,1266,Random House LLC,106
+1064,Long Walk to Freedom: The Autobiography of Nelson Mandela,Nelson Mandela,Excellent,4.31,43927,fiction,316.94,0.0,2.99,1266,"Amazon Digital Services,  Inc.",106
+1065,Gray Mountain,John Grisham,Intermediate,3.52,37379,nonfiction,104.94,62.964,0.99,1268,"Amazon Digital Services,  Inc.",106
+1066,The Power of One,Bryce Courtenay,Excellent,4.34,57312,fiction,846.94,508.164,7.99,1270,Random House LLC,106
+1067,The Maltese Falcon,Dashiell Hammett,Intermediate,3.92,58742,fiction,846.94,508.164,7.99,1271,Hachette Book Group,106
+1068,Night Road,Kristin Hannah,Excellent,4.17,58028,fiction,104.94,62.964,0.99,1272,"Amazon Digital Services,  Inc.",106
+1069,Tripwire,Lee Child,Excellent,4.07,55251,fiction,316.94,0.0,2.99,1273,"Amazon Digital Services,  Inc.",106
